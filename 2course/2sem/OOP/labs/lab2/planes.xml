@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfPlane xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Plane>
+    <Id>5235</Id>
+    <Type>Грузовой</Type>
+    <Model>Airbus</Model>
+    <Team>
+      <Name>Валерий</Name>
+      <Work>пилот</Work>
+      <Age>30</Age>
+      <Exp>5</Exp>
+    </Team>
+    <Places>237</Places>
+    <Year>6798</Year>
+    <Capacity>0</Capacity>
+    <Teh>2018-03-20T00:00:00</Teh>
+  </Plane>
+  <Plane>
+    <Id>5235</Id>
+    <Type>Грузовой</Type>
+    <Model>Airbus</Model>
+    <Team>
+      <Name>Валерий</Name>
+      <Work>пилот</Work>
+      <Age>30</Age>
+      <Exp>5</Exp>
+    </Team>
+    <Places>237</Places>
+    <Year>6798</Year>
+    <Capacity>0</Capacity>
+    <Teh>2018-03-20T00:00:00</Teh>
+  </Plane>
+</ArrayOfPlane>

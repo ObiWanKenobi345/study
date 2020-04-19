@@ -1,0 +1,24 @@
+D:\student\6sem\ProgIntServ\Lab2\Lab2Smelov\Lab2\Lab2\bin\Lab2.dll.config
+D:\student\6sem\ProgIntServ\Lab2\Lab2Smelov\Lab2\Lab2\bin\Lab2.dll
+D:\student\6sem\ProgIntServ\Lab2\Lab2Smelov\Lab2\Lab2\bin\Lab2.pdb
+D:\student\6sem\ProgIntServ\Lab2\Lab2Smelov\Lab2\Lab2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\student\6sem\ProgIntServ\Lab2\Lab2Smelov\Lab2\Lab2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\student\6sem\ProgIntServ\Lab2\Lab2Smelov\Lab2\Lab2\obj\Release\Lab2.csproj.CoreCompileInputs.cache
+D:\student\6sem\ProgIntServ\Lab2\Lab2Smelov\Lab2\Lab2\obj\Release\Lab2.dll
+D:\student\6sem\ProgIntServ\Lab2\Lab2Smelov\Lab2\Lab2\obj\Release\Lab2.pdb
+C:\Users\Дмитрий\Downloads\progintserv\Lab2\Lab2Smelov\Lab2\Lab2\bin\Lab2.dll.config
+C:\Users\Дмитрий\Downloads\progintserv\Lab2\Lab2Smelov\Lab2\Lab2\bin\Lab2.dll
+C:\Users\Дмитрий\Downloads\progintserv\Lab2\Lab2Smelov\Lab2\Lab2\bin\Lab2.pdb
+C:\Users\Дмитрий\Downloads\progintserv\Lab2\Lab2Smelov\Lab2\Lab2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Дмитрий\Downloads\progintserv\Lab2\Lab2Smelov\Lab2\Lab2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Дмитрий\Downloads\progintserv\Lab2\Lab2Smelov\Lab2\Lab2\obj\Release\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Downloads\progintserv\Lab2\Lab2Smelov\Lab2\Lab2\obj\Release\Lab2.dll
+C:\Users\Дмитрий\Downloads\progintserv\Lab2\Lab2Smelov\Lab2\Lab2\obj\Release\Lab2.pdb
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab2\Lab2\bin\Lab2.dll.config
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab2\Lab2\bin\Lab2.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab2\Lab2\bin\Lab2.pdb
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab2\Lab2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab2\Lab2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab2\Lab2\obj\Release\Lab2.csproj.CoreCompileInputs.cache
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab2\Lab2\obj\Release\Lab2.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab2\Lab2\obj\Release\Lab2.pdb

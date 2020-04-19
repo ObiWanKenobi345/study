@@ -1,0 +1,16 @@
+D:\3sem\OOP\13lab\13lab\13lab\bin\Debug\13lab.exe.config
+D:\3sem\OOP\13lab\13lab\13lab\bin\Debug\13lab.exe
+D:\3sem\OOP\13lab\13lab\13lab\bin\Debug\13lab.pdb
+D:\3sem\OOP\13lab\13lab\13lab\obj\Debug\13lab.csproj.CoreCompileInputs.cache
+D:\3sem\OOP\13lab\13lab\13lab\obj\Debug\13lab.exe
+D:\3sem\OOP\13lab\13lab\13lab\obj\Debug\13lab.pdb
+D:\3sem\OOP\13lab\13lab\13lab\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\3sem\OOP\13lab\13lab\13lab\obj\Debug\13lab.csprojResolveAssemblyReference.cache
+E:\Для учёбы\2 курс\ООП\labs\lab13\13lab\bin\Debug\13lab.exe.config
+E:\Для учёбы\2 курс\ООП\labs\lab13\13lab\bin\Debug\13lab.exe
+E:\Для учёбы\2 курс\ООП\labs\lab13\13lab\bin\Debug\13lab.pdb
+E:\Для учёбы\2 курс\ООП\labs\lab13\13lab\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Для учёбы\2 курс\ООП\labs\lab13\13lab\obj\Debug\13lab.csprojResolveAssemblyReference.cache
+E:\Для учёбы\2 курс\ООП\labs\lab13\13lab\obj\Debug\13lab.csproj.CoreCompileInputs.cache
+E:\Для учёбы\2 курс\ООП\labs\lab13\13lab\obj\Debug\13lab.exe
+E:\Для учёбы\2 курс\ООП\labs\lab13\13lab\obj\Debug\13lab.pdb

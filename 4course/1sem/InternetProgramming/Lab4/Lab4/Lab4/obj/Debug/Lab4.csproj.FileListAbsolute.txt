@@ -1,0 +1,14 @@
+D:\University\ASP.NET\Lab4\Lab4\bin\Lab4.dll.config
+D:\University\ASP.NET\Lab4\Lab4\bin\Lab4.dll
+D:\University\ASP.NET\Lab4\Lab4\bin\Lab4.pdb
+D:\University\ASP.NET\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+D:\University\ASP.NET\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\University\ASP.NET\Lab4\Lab4\obj\Debug\Lab4.dll
+D:\University\ASP.NET\Lab4\Lab4\obj\Debug\Lab4.pdb
+E:\Study\4 course\Программирование в Internet\labs\Lab4-20181017T225144Z-001\Lab4\Lab4\bin\Lab4.dll.config
+E:\Study\4 course\Программирование в Internet\labs\Lab4-20181017T225144Z-001\Lab4\Lab4\bin\Lab4.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab4-20181017T225144Z-001\Lab4\Lab4\bin\Lab4.pdb
+E:\Study\4 course\Программирование в Internet\labs\Lab4-20181017T225144Z-001\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+E:\Study\4 course\Программирование в Internet\labs\Lab4-20181017T225144Z-001\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+E:\Study\4 course\Программирование в Internet\labs\Lab4-20181017T225144Z-001\Lab4\Lab4\obj\Debug\Lab4.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab4-20181017T225144Z-001\Lab4\Lab4\obj\Debug\Lab4.pdb

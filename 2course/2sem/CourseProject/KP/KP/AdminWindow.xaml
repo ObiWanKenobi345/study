@@ -1,0 +1,21 @@
+﻿<Window x:Class="KP.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KP"
+        mc:Ignorable="d"
+        Title="AdminWindow" Height="450" Width="470" WindowStartupLocation="CenterScreen" Background="#EFE2CC">    
+    <Border Background="#EC7272" CornerRadius="10" Margin="20">
+        <StackPanel Margin="20">
+            <Label Content="Администратор" Foreground="White" FontSize="25" HorizontalAlignment="Center"/>
+            <Separator></Separator>
+            <Button Content="Заказ" Click="ButtonAdminOrderClick" Margin="60,10,59.2,10" Background="#EFE2CC" Foreground="#616A79" FontSize="18"/>
+            <Button Content="Cклад" Click="ButtonStockClick" Margin="60,10,59.2,10" Background="#EFE2CC" Foreground="#616A79" FontSize="18"/>                       
+            <Button Content="Меню" Click="ButtonMenuClick"  Margin="60,10,59.2,10" Background="#EFE2CC" Foreground="#616A79" FontSize="18"/>
+            <Button Content=" Информация о поставщиках" Click="ButtonSuppliersClick" Margin="60,10,59.6,10" Background="#EFE2CC" Foreground="#616A79" FontSize="18"/>
+            <Button Content="Пользователи" Click="ButtonUsersClick" Margin="60,10,59.2,10" Background="#EFE2CC" Foreground="#616A79" FontSize="18"/>            
+            <Button Content="Выход" Click="ButtonBackClick" Margin="60,10,59.2, 30" Background="#EFE2CC" Foreground="#616A79" FontSize="18"/>
+        </StackPanel>
+    </Border>
+</Window>

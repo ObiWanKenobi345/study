@@ -1,0 +1,7 @@
+E:\Для учёбы\2 курс\ООП\labs\KR\KR\bin\Debug\KR.exe.config
+E:\Для учёбы\2 курс\ООП\labs\KR\KR\bin\Debug\KR.exe
+E:\Для учёбы\2 курс\ООП\labs\KR\KR\bin\Debug\KR.pdb
+E:\Для учёбы\2 курс\ООП\labs\KR\KR\obj\Debug\KR.csprojResolveAssemblyReference.cache
+E:\Для учёбы\2 курс\ООП\labs\KR\KR\obj\Debug\KR.csproj.CoreCompileInputs.cache
+E:\Для учёбы\2 курс\ООП\labs\KR\KR\obj\Debug\KR.exe
+E:\Для учёбы\2 курс\ООП\labs\KR\KR\obj\Debug\KR.pdb

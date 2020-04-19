@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="student">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="notes" Relationship="WSModel.FK_notes_students" FromRole="student" ToRole="note" />
+  </EntityType>
+  <EntityContainer Name="WSEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="students" EntityType="Self.student" />
+    <EntitySet Name="notes" EntityType="WSModel.note" />
+    <AssociationSet Name="FK_notes_students" Association="WSModel.FK_notes_students">
+      <End Role="student" EntitySet="students" />
+      <End Role="note" EntitySet="notes" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="note">
+    <Key>
+      <PropertyRef Name="id" />
+      <PropertyRef Name="subject" />
+      <PropertyRef Name="notes" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="subject" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="notes" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="student" Relationship="WSModel.FK_notes_students" FromRole="note" ToRole="student" />
+  </EntityType>
+  <Association Name="FK_notes_students">
+    <End Type="WSModel.student" Role="student" Multiplicity="1" />
+    <End Type="WSModel.note" Role="note" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="student">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="note">
+        <PropertyRef Name="id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

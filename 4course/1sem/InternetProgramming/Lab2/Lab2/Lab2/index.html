@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>lab 2</title>
+    <script>
+        var basePath = "http://localhost:64037/api/values";
+
+        function get() {
+            var request = new XMLHttpRequest();
+            request.open("GET", basePath, true);
+            request.onreadystatechange = function () {
+                if (request.readyState == 4 && request.status == 200) {
+                    document.getElementById('serverResponse').innerText = request.responseText;
+                }
+            }
+            request.send();
+        }
+
+        function post() {
+            var request = new XMLHttpRequest();
+            request.open("POST", basePath, true);
+            request.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+
+            var result = document.getElementById('resultInput').value;
+
+            request.onreadystatechange = function () {
+                if (request.readyState == 4 && request.status == 200) {
+                    document.getElementById('serverResponse').innerText = request.responseText;
+                }
+            }
+
+            request.send(JSON.stringify({ result: result }));
+        }
+
+        function del() {
+            var request = new XMLHttpRequest();
+            request.open("DELETE", basePath, true);
+
+            request.onreadystatechange = function () {
+                if (request.readyState == 4 && request.status == 200) {
+                    document.getElementById('serverResponse').innerText = request.responseText;
+                }
+            }
+
+            request.send();
+        }
+
+        function put() {
+            var request = new XMLHttpRequest();
+            request.open("PUT", basePath, true);
+            request.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+
+            var add = document.getElementById('stackInput').value;
+            console.log(`new value is ${add}`);
+
+            request.onreadystatechange = function () {
+                if (request.readyState == 4 && request.status == 200) {
+                    document.getElementById('serverResponse').innerText = request.responseText;
+                }
+            }
+
+            request.send(JSON.stringify({ add: add }));
+        }
+
+    </script>
+</head>
+<body>
+    <form>
+        Result:
+        <input type="number" id="resultInput" />
+        Stack:
+        <input type="number" id="stackInput" />
+        <br />
+        <br />
+        <input type="button" id="postResult" onclick="post()" value="POST result" />
+        <input type="button" id="putStack" onclick="put()" value="PUT stack" />
+        <input type="button" id="deleteStack" onclick="del()" value="DELETE stack" />
+        <input type="button" id="getResult" onclick="get()" value="GET result" />
+        <br />
+        <br />
+        Our value:
+        <textarea id="serverResponse"></textarea>
+    </form>
+</body>
+</html>

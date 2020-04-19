@@ -1,0 +1,4 @@
+﻿<asp:Button runat="server" ForeColor="White" BackColor="Orange"  Font-Names="Verdana" Font-Size="40pt" />
+<asp:TextBox runat="server" Font-Size="40pt"/>
+<asp:Label runat="server" Font-Size="20pt" ForeColor="Blue" Font-Names="Algerian" />
+<asp:Label SkinID="lab2" runat="server" Font-Size="20pt" ForeColor="Green" Font-Names="Algerian" />

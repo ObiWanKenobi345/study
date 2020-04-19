@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/Banner1.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>Banner 1</AlternateText>
+    <Impression>50</Impression>
+    <Keyword>g1</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Banner2.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>Banner 2</AlternateText>
+    <Impression>70</Impression>
+    <Keyword>g1</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Banner3.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>Banner 3</AlternateText>
+    <Impression>20</Impression>
+    <Keyword>g2</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Banner4.jpg</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+    <AlternateText>Banner 4</AlternateText>
+    <Impression>35</Impression>
+    <Keyword>g2</Keyword>
+  </Ad>
+</Advertisements>

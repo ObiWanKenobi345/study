@@ -1,0 +1,34 @@
+E:\University\ASP.NET\WcfHost\WcfHost\bin\Debug\WcfHost.exe.config
+E:\University\ASP.NET\WcfHost\WcfHost\bin\Debug\WcfHost.exe
+E:\University\ASP.NET\WcfHost\WcfHost\bin\Debug\WcfHost.pdb
+E:\University\ASP.NET\WcfHost\WcfHost\bin\Debug\WcfServiceLibrary.dll
+E:\University\ASP.NET\WcfHost\WcfHost\bin\Debug\WcfServiceLibrary.pdb
+E:\University\ASP.NET\WcfHost\WcfHost\obj\Debug\WcfHost.csprojResolveAssemblyReference.cache
+E:\University\ASP.NET\WcfHost\WcfHost\obj\Debug\WcfHost.Properties.Resources.resources
+E:\University\ASP.NET\WcfHost\WcfHost\obj\Debug\WcfHost.csproj.GenerateResource.Cache
+E:\University\ASP.NET\WcfHost\WcfHost\obj\Debug\WcfHost.csproj.CoreCompileInputs.cache
+E:\University\ASP.NET\WcfHost\WcfHost\obj\Debug\WcfHost.exe
+E:\University\ASP.NET\WcfHost\WcfHost\obj\Debug\WcfHost.pdb
+C:\Users\Дмитрий\Downloads\lab6\WcfHost\WcfHost\bin\Debug\WcfHost.exe.config
+C:\Users\Дмитрий\Downloads\lab6\WcfHost\WcfHost\bin\Debug\WcfHost.exe
+C:\Users\Дмитрий\Downloads\lab6\WcfHost\WcfHost\bin\Debug\WcfHost.pdb
+C:\Users\Дмитрий\Downloads\lab6\WcfHost\WcfHost\bin\Debug\WcfServiceLibrary.dll
+C:\Users\Дмитрий\Downloads\lab6\WcfHost\WcfHost\bin\Debug\WcfServiceLibrary.pdb
+C:\Users\Дмитрий\Downloads\lab6\WcfHost\WcfHost\obj\Debug\WcfHost.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Downloads\lab6\WcfHost\WcfHost\obj\Debug\WcfHost.Properties.Resources.resources
+C:\Users\Дмитрий\Downloads\lab6\WcfHost\WcfHost\obj\Debug\WcfHost.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Downloads\lab6\WcfHost\WcfHost\obj\Debug\WcfHost.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Downloads\lab6\WcfHost\WcfHost\obj\Debug\WcfHost.exe
+C:\Users\Дмитрий\Downloads\lab6\WcfHost\WcfHost\obj\Debug\WcfHost.pdb
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\lab6\WcfHost\WcfHost\bin\Debug\WcfHost.exe.config
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\lab6\WcfHost\WcfHost\bin\Debug\WcfHost.exe
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\lab6\WcfHost\WcfHost\bin\Debug\WcfHost.pdb
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\lab6\WcfHost\WcfHost\bin\Debug\WcfServiceLibrary.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\lab6\WcfHost\WcfHost\bin\Debug\WcfServiceLibrary.pdb
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\lab6\WcfHost\WcfHost\obj\Debug\WcfHost.csprojResolveAssemblyReference.cache
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\lab6\WcfHost\WcfHost\obj\Debug\WcfHost.Form1.resources
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\lab6\WcfHost\WcfHost\obj\Debug\WcfHost.Properties.Resources.resources
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\lab6\WcfHost\WcfHost\obj\Debug\WcfHost.csproj.GenerateResource.Cache
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\lab6\WcfHost\WcfHost\obj\Debug\WcfHost.csproj.CoreCompileInputs.cache
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\lab6\WcfHost\WcfHost\obj\Debug\WcfHost.exe
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\lab6\WcfHost\WcfHost\obj\Debug\WcfHost.pdb

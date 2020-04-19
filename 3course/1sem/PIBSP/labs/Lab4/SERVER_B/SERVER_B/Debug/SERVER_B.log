@@ -1,0 +1,4 @@
+﻿  mail.cpp
+e:\учеба\third\псп\lab_04\server_b\server_b\mail.cpp(105): warning C4715: GetServer: значение возвращается не при всех путях выполнения
+  SERVER_B.vcxproj -> E:\Учеба\Third\ПСП\LAB_04\SERVER_B\Debug\SERVER_B.exe
+  SERVER_B.vcxproj -> E:\Учеба\Third\ПСП\LAB_04\SERVER_B\Debug\SERVER_B.pdb (Full PDB)

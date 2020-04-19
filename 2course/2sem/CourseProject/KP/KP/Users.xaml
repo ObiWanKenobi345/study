@@ -1,0 +1,21 @@
+﻿<Window x:Class="KP.Users"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KP"
+        mc:Ignorable="d"
+        Title="Users" Height="477.2" Width="656.4" WindowStartupLocation="CenterScreen" Background="#EC7272">
+    <Grid>
+        <Label Content="Зарегистрированные пользователи" Foreground="White" FontSize="30"  Height="56" Margin="126,3,10.4,0" VerticalAlignment="Top"/>
+        <Button Content="Закрыть" Click="ButtonCloseClick" HorizontalAlignment="Left" Height="40" Margin="10,387,0,0" VerticalAlignment="Top" Width="104" Background="#EFE2CC" Foreground="#616A79" FontSize="18" BorderBrush="Azure"/>
+        <Button Content="Удалить" Click="ButtonDeleteClick" HorizontalAlignment="Left" Height="40" Margin="10,186,0,0" VerticalAlignment="Top" Width="104" Background="#EFE2CC" Foreground="#616A79" FontSize="18" BorderBrush="Azure"/>
+        <Button Content="Обновить" Click="ButtonUpdate_Click" HorizontalAlignment="Left" Height="40" Margin="535,387,0,0" VerticalAlignment="Top" Width="91" Background="#EFE2CC" Foreground="#616A79" FontSize="18" BorderBrush="Azure" />
+        <DataGrid Name="grdTable" HorizontalAlignment="Left" Height="310" Margin="126,59,0,0" VerticalAlignment="Top" Width="500" Background="#EFE2CC"/>
+        <TextBox Name="LoginTextBox" HorizontalAlignment="Left" Height="25" Margin="10,90,0,0"   VerticalAlignment="Top" Width="104" Background="#EFE2CC" Foreground="#616A79" FontSize="16" MaxLength="20"/>
+        <Label Content="Логин" Foreground="White" HorizontalAlignment="Left" Height="24" Margin="7,65,0,0" VerticalAlignment="Top" Width="61"/>
+        <Label Content="Пароль" Foreground="White" HorizontalAlignment="Left" Height="26" Margin="10,109,0,0" VerticalAlignment="Top" Width="61"/>
+        <TextBox Name="PasswordTextBox" HorizontalAlignment="Left" Height="23" Margin="10,140,0,0"   VerticalAlignment="Top" Width="104" Background="#EFE2CC" Foreground="#616A79" FontSize="16" MaxLength="20"/>
+        <Button Content="Сменить &#xD; пароль" Click="ButtonChangePassClick" HorizontalAlignment="Left" Height="56" Margin="10,248,0,0" VerticalAlignment="Top" Width="104" Background="#EFE2CC" Foreground="#616A79" FontSize="18" BorderBrush="Azure"/>
+    </Grid>
+</Window>

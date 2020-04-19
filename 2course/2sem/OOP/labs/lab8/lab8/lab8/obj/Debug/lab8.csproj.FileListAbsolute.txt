@@ -1,0 +1,462 @@
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\lab8.exe
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\EntityFramework.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\EntityFramework.SqlServer.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\lab8.exe.config
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\netstandard.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.AppContext.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Collections.Concurrent.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Collections.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Collections.NonGeneric.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Collections.Specialized.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.ComponentModel.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.ComponentModel.Primitives.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Console.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Data.Common.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Diagnostics.Contracts.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Diagnostics.Debug.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Diagnostics.Process.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Diagnostics.Tools.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Diagnostics.Tracing.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Drawing.Primitives.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Dynamic.Runtime.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Globalization.Calendars.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Globalization.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Globalization.Extensions.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.IO.Compression.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.IO.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.IO.FileSystem.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.IO.IsolatedStorage.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.IO.Pipes.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Linq.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Linq.Expressions.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Linq.Parallel.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Linq.Queryable.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Net.Http.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Net.NameResolution.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Net.NetworkInformation.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Net.Ping.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Net.Primitives.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Net.Requests.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Net.Security.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Net.Sockets.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Net.WebSockets.Client.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Net.WebSockets.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.ObjectModel.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Reflection.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Reflection.Extensions.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Reflection.Primitives.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Resources.Reader.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Resources.ResourceManager.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Resources.Writer.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Runtime.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Runtime.Extensions.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Runtime.Handles.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Runtime.InteropServices.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Runtime.Numerics.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Security.Claims.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Security.Principal.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Security.SecureString.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Text.Encoding.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Text.RegularExpressions.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Threading.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Threading.Overlapped.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Threading.Tasks.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Threading.Thread.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Threading.ThreadPool.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Threading.Timer.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.ValueTuple.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Xml.ReaderWriter.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Xml.XDocument.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Xml.XmlDocument.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Xml.XmlSerializer.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Xml.XPath.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Options.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Remotion.Linq.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Collections.Immutable.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.ComponentModel.Annotations.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Data.SqlClient.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Interactive.Async.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\EntityFramework.xml
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\EntityFramework.SqlServer.xml
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Options.xml
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\Remotion.Linq.xml
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Collections.Immutable.xml
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Interactive.Async.xml
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\4 семестр\ООП\lab8\lab8\lab8\obj\Debug\lab8.csproj.lab8.exe.config
+D:\4 семестр\ООП\lab8\lab8\lab8\obj\Debug\MainWindow.g.cs
+D:\4 семестр\ООП\lab8\lab8\lab8\obj\Debug\App.g.cs
+D:\4 семестр\ООП\lab8\lab8\lab8\obj\Debug\lab8_MarkupCompile.cache
+D:\4 семестр\ООП\lab8\lab8\lab8\obj\Debug\lab8_MarkupCompile.lref
+D:\4 семестр\ООП\lab8\lab8\lab8\obj\Debug\MainWindow.baml
+D:\4 семестр\ООП\lab8\lab8\lab8\obj\Debug\lab8.g.resources
+D:\4 семестр\ООП\lab8\lab8\lab8\obj\Debug\lab8.Properties.Resources.resources
+D:\4 семестр\ООП\lab8\lab8\lab8\obj\Debug\lab8.csproj.GenerateResource.Cache
+D:\4 семестр\ООП\lab8\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+D:\4 семестр\ООП\lab8\lab8\lab8\obj\Debug\lab8.exe
+D:\4 семестр\ООП\lab8\lab8\lab8\obj\Debug\lab8.pdb
+D:\4 семестр\ООП\lab8\lab8\lab8\bin\Debug\lab8.pdb
+D:\4 семестр\ООП\lab8\lab8\lab8\obj\Debug\lab8.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\lab8.exe.config
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\lab8.exe
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\lab8.pdb
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\netstandard.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.AppContext.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Collections.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.ComponentModel.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Console.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Data.Common.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Globalization.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.IO.Compression.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.IO.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.IO.Pipes.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Linq.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Net.Http.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Net.Ping.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Net.Primitives.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Net.Requests.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Net.Security.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Net.Sockets.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.ObjectModel.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Reflection.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Resources.Reader.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Resources.Writer.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Runtime.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Security.Claims.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Security.Principal.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Security.SecureString.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Text.Encoding.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Threading.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Threading.Thread.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Threading.Timer.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.ValueTuple.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Xml.XPath.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\EntityFramework.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Remotion.Linq.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Interactive.Async.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\EntityFramework.xml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\Remotion.Linq.xml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Interactive.Async.xml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\obj\Debug\lab8.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\obj\Debug\lab8.exe.config
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\obj\Debug\MainWindow.g.cs
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\obj\Debug\App.g.cs
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\obj\Debug\lab8_MarkupCompile.cache
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\obj\Debug\lab8_MarkupCompile.lref
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\obj\Debug\MainWindow.baml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\obj\Debug\lab8.g.resources
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\obj\Debug\lab8.Properties.Resources.resources
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\obj\Debug\lab8.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\obj\Debug\lab8.exe
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab8\lab8\lab8\obj\Debug\lab8.pdb
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\lab8.exe.config
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\lab8.exe
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\lab8.pdb
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\netstandard.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.AppContext.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Collections.Concurrent.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Collections.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Collections.NonGeneric.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Collections.Specialized.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.ComponentModel.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Console.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Data.Common.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.Debug.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.Process.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.Tools.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Drawing.Primitives.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Dynamic.Runtime.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Globalization.Calendars.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Globalization.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Globalization.Extensions.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.IO.Compression.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.IO.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.IO.FileSystem.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.IO.Pipes.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Linq.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Linq.Expressions.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Linq.Parallel.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Linq.Queryable.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Net.Http.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Net.NameResolution.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Net.NetworkInformation.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Net.Ping.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Net.Primitives.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Net.Requests.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Net.Security.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Net.Sockets.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Net.WebSockets.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.ObjectModel.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Reflection.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Reflection.Extensions.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Reflection.Primitives.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Resources.Reader.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Resources.ResourceManager.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Resources.Writer.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Runtime.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Runtime.Extensions.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Runtime.Handles.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Runtime.InteropServices.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Runtime.Numerics.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Security.Claims.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Security.Principal.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Security.SecureString.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Text.Encoding.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Text.RegularExpressions.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Threading.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Threading.Overlapped.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Threading.Tasks.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Threading.Thread.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Threading.ThreadPool.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Threading.Timer.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.ValueTuple.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Xml.XDocument.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Xml.XmlDocument.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Xml.XPath.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\EntityFramework.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\EntityFramework.SqlServer.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Remotion.Linq.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Collections.Immutable.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Data.SqlClient.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Interactive.Async.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\EntityFramework.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\EntityFramework.SqlServer.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\Remotion.Linq.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Collections.Immutable.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Interactive.Async.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\obj\Debug\lab8.csprojResolveAssemblyReference.cache
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\obj\Debug\lab8.exe.config
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\obj\Debug\MainWindow.g.cs
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\obj\Debug\App.g.cs
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\obj\Debug\lab8_MarkupCompile.cache
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\obj\Debug\lab8_MarkupCompile.lref
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\obj\Debug\MainWindow.baml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\obj\Debug\lab8.g.resources
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\obj\Debug\lab8.Properties.Resources.resources
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\obj\Debug\lab8.csproj.GenerateResource.Cache
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\obj\Debug\lab8.exe
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab8\lab8\lab8\obj\Debug\lab8.pdb

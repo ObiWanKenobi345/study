@@ -1,0 +1,274 @@
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\ApplicationInsights.config
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\MVC_APP.dll.config
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\MVC_APP.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\MVC_APP.pdb
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\EntityFramework.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\EntityFramework.SqlServer.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\Microsoft.AI.Web.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\Newtonsoft.Json.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\System.Net.Http.Formatting.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\System.Web.Helpers.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\System.Web.Http.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\System.Web.Http.WebHost.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\System.Web.Mvc.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\System.Web.Razor.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\System.Web.Webpages.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\System.Web.Webpages.Razor.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\EntityFramework.xml
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\EntityFramework.SqlServer.xml
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\Microsoft.AI.Web.xml
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\System.Web.Razor.xml
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\System.Web.Webpages.xml
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\System.Web.Webpages.Razor.xml
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\System.Web.Helpers.xml
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\System.Web.Mvc.xml
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\Newtonsoft.Json.xml
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\System.Net.Http.Formatting.xml
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\System.Web.Http.xml
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\System.Web.Http.WebHost.xml
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\ru\System.Web.Http.resources.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\obj\Debug\MVC_APP.csprojAssemblyReference.cache
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\obj\Debug\MVC_APP.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\obj\Debug\MVC_APP.csproj.CopyComplete
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\obj\Debug\MVC_APP.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\obj\Debug\MVC_APP.pdb
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\roslyn\csc.exe
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\roslyn\vbc.exe
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Computer\Downloads\ASP.NET-maste\MVC\MVC_APP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\ApplicationInsights.config
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\roslyn\csc.exe
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\roslyn\vbc.exe
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\MVC_APP.dll.config
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\MVC_APP.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\MVC_APP.pdb
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\EntityFramework.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\EntityFramework.SqlServer.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\Microsoft.AI.Web.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\Newtonsoft.Json.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\System.Net.Http.Formatting.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\System.Web.Helpers.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\System.Web.Http.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\System.Web.Http.WebHost.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\System.Web.Mvc.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\System.Web.Razor.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\System.Web.Webpages.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\System.Web.Webpages.Razor.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\EntityFramework.xml
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\EntityFramework.SqlServer.xml
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\Microsoft.AI.Web.xml
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\System.Web.Razor.xml
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\System.Web.Webpages.xml
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\System.Web.Webpages.Razor.xml
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\System.Web.Helpers.xml
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\System.Web.Mvc.xml
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\Newtonsoft.Json.xml
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\System.Net.Http.Formatting.xml
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\System.Web.Http.xml
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\System.Web.Http.WebHost.xml
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\ru\System.Web.Http.resources.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\obj\Debug\MVC_APP.csprojAssemblyReference.cache
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\obj\Debug\MVC_APP.csproj.CoreCompileInputs.cache
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\obj\Debug\MVC_APP.csproj.CopyComplete
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\obj\Debug\MVC_APP.dll
+C:\Users\Entet\OneDrive\Desktop\MVC\MVC_APP\obj\Debug\MVC_APP.pdb
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\ApplicationInsights.config
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\roslyn\csc.exe
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\roslyn\vbc.exe
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\MVC_APP.dll.config
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\MVC_APP.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\MVC_APP.pdb
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\EntityFramework.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\EntityFramework.SqlServer.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\Microsoft.AI.Web.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\Newtonsoft.Json.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\System.Net.Http.Formatting.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\System.Web.Helpers.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\System.Web.Http.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\System.Web.Http.WebHost.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\System.Web.Mvc.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\System.Web.Razor.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\System.Web.Webpages.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\System.Web.Webpages.Razor.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\EntityFramework.xml
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\EntityFramework.SqlServer.xml
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\Microsoft.AI.Web.xml
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\System.Web.Razor.xml
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\System.Web.Webpages.xml
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\System.Web.Webpages.Razor.xml
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\System.Web.Helpers.xml
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\System.Web.Mvc.xml
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\Newtonsoft.Json.xml
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\System.Net.Http.Formatting.xml
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\System.Web.Http.xml
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\System.Web.Http.WebHost.xml
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\ru\System.Web.Http.resources.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\obj\Debug\MVC_APP.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\obj\Debug\MVC_APP.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\obj\Debug\MVC_APP.dll
+C:\Users\Дмитрий\Downloads\MVC\MVC_APP\obj\Debug\MVC_APP.pdb
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\ApplicationInsights.config
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\roslyn\csc.exe
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\roslyn\System.Collections.Immutable.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\roslyn\System.Reflection.Metadata.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\roslyn\vbc.exe
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\roslyn\VBCSCompiler.exe
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\roslyn\VBCSCompiler.exe.config
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\MVC_APP.dll.config
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\MVC_APP.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\MVC_APP.pdb
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\EntityFramework.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\EntityFramework.SqlServer.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\Microsoft.AI.DependencyCollector.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\Microsoft.AI.Web.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\Microsoft.AI.WindowsServer.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\Microsoft.ApplicationInsights.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\Microsoft.Web.Infrastructure.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\Newtonsoft.Json.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\System.Net.Http.Formatting.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\System.Web.Helpers.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\System.Web.Http.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\System.Web.Http.WebHost.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\System.Web.Mvc.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\System.Web.Razor.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\System.Web.Webpages.Deployment.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\System.Web.Webpages.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\System.Web.Webpages.Razor.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\EntityFramework.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\EntityFramework.SqlServer.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\Microsoft.AI.DependencyCollector.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\Microsoft.AI.Web.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\Microsoft.AI.WindowsServer.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\Microsoft.ApplicationInsights.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\System.Web.Razor.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\System.Web.Webpages.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\System.Web.Webpages.Deployment.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\System.Web.Webpages.Razor.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\System.Web.Helpers.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\System.Web.Mvc.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\Newtonsoft.Json.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\System.Net.Http.Formatting.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\System.Web.Http.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\System.Web.Http.WebHost.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\ru\System.Web.Razor.resources.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\ru\System.Web.Webpages.resources.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\ru\System.Web.Webpages.Deployment.resources.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\ru\System.Web.Webpages.Razor.resources.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\ru\System.Web.Helpers.resources.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\ru\System.Web.Mvc.resources.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\ru\System.Net.Http.Formatting.resources.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\ru\System.Web.Http.resources.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\bin\ru\System.Web.Http.WebHost.resources.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\obj\Debug\MVC_APP.csprojResolveAssemblyReference.cache
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\obj\Debug\MVC_APP.csproj.CoreCompileInputs.cache
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\obj\Debug\MVC_APP.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\MVC\MVC_APP\obj\Debug\MVC_APP.pdb

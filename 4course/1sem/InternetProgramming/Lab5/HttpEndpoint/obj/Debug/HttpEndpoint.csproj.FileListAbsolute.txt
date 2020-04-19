@@ -1,0 +1,21 @@
+D:\University\ASP.NET\Lab5\HttpEndpoint\bin\Debug\HttpEndpoint.exe.config
+D:\University\ASP.NET\Lab5\HttpEndpoint\bin\Debug\HttpEndpoint.exe
+D:\University\ASP.NET\Lab5\HttpEndpoint\bin\Debug\HttpEndpoint.pdb
+D:\University\ASP.NET\Lab5\HttpEndpoint\obj\Debug\HttpEndpoint.csprojAssemblyReference.cache
+D:\University\ASP.NET\Lab5\HttpEndpoint\obj\Debug\HttpEndpoint.csproj.CoreCompileInputs.cache
+D:\University\ASP.NET\Lab5\HttpEndpoint\obj\Debug\HttpEndpoint.exe
+D:\University\ASP.NET\Lab5\HttpEndpoint\obj\Debug\HttpEndpoint.pdb
+D:\study\7 sem\PI\Lab5\HttpEndpoint\bin\Debug\HttpEndpoint.exe.config
+D:\study\7 sem\PI\Lab5\HttpEndpoint\bin\Debug\HttpEndpoint.exe
+D:\study\7 sem\PI\Lab5\HttpEndpoint\bin\Debug\HttpEndpoint.pdb
+D:\study\7 sem\PI\Lab5\HttpEndpoint\obj\Debug\HttpEndpoint.csprojResolveAssemblyReference.cache
+D:\study\7 sem\PI\Lab5\HttpEndpoint\obj\Debug\HttpEndpoint.csproj.CoreCompileInputs.cache
+D:\study\7 sem\PI\Lab5\HttpEndpoint\obj\Debug\HttpEndpoint.exe
+D:\study\7 sem\PI\Lab5\HttpEndpoint\obj\Debug\HttpEndpoint.pdb
+E:\Study\4 course\Программирование в Internet\labs\Lab5\HttpEndpoint\bin\Debug\HttpEndpoint.exe.config
+E:\Study\4 course\Программирование в Internet\labs\Lab5\HttpEndpoint\bin\Debug\HttpEndpoint.exe
+E:\Study\4 course\Программирование в Internet\labs\Lab5\HttpEndpoint\bin\Debug\HttpEndpoint.pdb
+E:\Study\4 course\Программирование в Internet\labs\Lab5\HttpEndpoint\obj\Debug\HttpEndpoint.csprojAssemblyReference.cache
+E:\Study\4 course\Программирование в Internet\labs\Lab5\HttpEndpoint\obj\Debug\HttpEndpoint.csproj.CoreCompileInputs.cache
+E:\Study\4 course\Программирование в Internet\labs\Lab5\HttpEndpoint\obj\Debug\HttpEndpoint.exe
+E:\Study\4 course\Программирование в Internet\labs\Lab5\HttpEndpoint\obj\Debug\HttpEndpoint.pdb

@@ -1,0 +1,70 @@
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\KP.csprojResolveAssemblyReference.cache
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\MainWindow.g.cs
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\App.g.cs
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\KP_MarkupCompile.cache
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\KP_MarkupCompile.lref
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\bin\Debug\KP.exe.config
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\bin\Debug\KP.exe
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\bin\Debug\KP.pdb
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\MainWindow.baml
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\KP.g.resources
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\KP.Properties.Resources.resources
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\KP.csproj.GenerateResource.Cache
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\KP.csproj.CoreCompileInputs.cache
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\KP.exe
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\KP.pdb
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\Registration.g.cs
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\Registration.baml
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\SuccessfulReg.g.cs
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\AdminWindow.g.cs
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\UserWindow.g.cs
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\AdminWindow.baml
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\SuccessfulReg.baml
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\UserWindow.baml
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\AdminOrder.g.cs
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\AdminOrder.baml
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\Users.g.cs
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\Users.baml
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\Menu.g.cs
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\Menu.baml
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\Suppliers.g.cs
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\Suppliers.baml
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\Stock.g.cs
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\Stock.baml
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\UserOrder.g.cs
+E:\Для учёбы\2 курс\2 сем\КП\KP\KP\obj\Debug\UserOrder.baml
+E:\Study\2 course\2 sem\КП\KP\KP\bin\Debug\KP.exe.config
+E:\Study\2 course\2 sem\КП\KP\KP\bin\Debug\KP.exe
+E:\Study\2 course\2 sem\КП\KP\KP\bin\Debug\KP.pdb
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\KP.csprojAssemblyReference.cache
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\AdminOrder.g.cs
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\AdminWindow.g.cs
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\MainWindow.g.cs
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\Menu.g.cs
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\Registration.g.cs
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\Stock.g.cs
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\SuccessfulReg.g.cs
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\Suppliers.g.cs
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\UserOrder.g.cs
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\Users.g.cs
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\UserWindow.g.cs
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\App.g.cs
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\KP_MarkupCompile.cache
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\KP_MarkupCompile.lref
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\AdminOrder.baml
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\AdminWindow.baml
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\MainWindow.baml
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\Menu.baml
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\Registration.baml
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\Stock.baml
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\SuccessfulReg.baml
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\Suppliers.baml
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\UserOrder.baml
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\Users.baml
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\UserWindow.baml
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\KP.g.resources
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\KP.Properties.Resources.resources
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\KP.csproj.GenerateResource.cache
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\KP.csproj.CoreCompileInputs.cache
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\KP.exe
+E:\Study\2 course\2 sem\КП\KP\KP\obj\Debug\KP.pdb

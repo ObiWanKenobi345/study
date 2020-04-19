@@ -1,0 +1,51 @@
+﻿@using NewsPaper.Data
+@{
+    ViewData["Title"] = "Index";
+}
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+@inject ApplicationDbContext db
+<link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+<div class="left">
+    <h2>News</h2>
+</div>
+
+<h3>@ViewBag.Specialization</h3>
+
+
+<main class="container row">
+    @foreach (var oneNew in Model)
+    {
+    <div id="templatemo_content_wrapper">
+
+        <div class="post_section">
+            <span class="bottom"></span>
+
+
+            <h2>
+                <a asp-controller="News" asp-action="OpenNew"
+                   asp-route-id="@oneNew.Id">@oneNew.Name</a>
+            </h2>
+
+            <strong>Date:</strong> @oneNew.CreationTime | <strong>Author:</strong> @UserManager.FindByIdAsync(oneNew.UserId).Result.UserName
+            <div>@oneNew.Description</div>
+            <div class="cleaner"></div>
+            <div class="category">Tags: </div>
+            <strong>Оценено:</strong>@oneNew.VotersCount | <strong>Средняя:</strong>@Math.Round(oneNew.AverageRating,1)
+
+            <div class="cleaner"></div>
+
+        </div>
+
+
+        <div class="cleaner_h40"><!-- a spacing between 2 posts --></div>
+    </div>
+
+    }
+
+
+
+</main>
+<script src="~/lib/Time/time.js"></script>

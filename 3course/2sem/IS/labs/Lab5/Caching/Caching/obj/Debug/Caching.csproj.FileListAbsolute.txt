@@ -1,0 +1,36 @@
+E:\University\ASP.NET\Caching\Caching\bin\Caching.dll.config
+E:\University\ASP.NET\Caching\Caching\bin\Caching.dll
+E:\University\ASP.NET\Caching\Caching\bin\Caching.pdb
+E:\University\ASP.NET\Caching\Caching\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\University\ASP.NET\Caching\Caching\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\University\ASP.NET\Caching\Caching\obj\Debug\Caching.csprojResolveAssemblyReference.cache
+E:\University\ASP.NET\Caching\Caching\obj\Debug\Caching.csproj.CoreCompileInputs.cache
+E:\University\ASP.NET\Caching\Caching\obj\Debug\Caching.dll
+E:\University\ASP.NET\Caching\Caching\obj\Debug\Caching.pdb
+D:\student\6sem\ProgIntServ\Caching\Caching\bin\Caching.dll.config
+D:\student\6sem\ProgIntServ\Caching\Caching\bin\Caching.dll
+D:\student\6sem\ProgIntServ\Caching\Caching\bin\Caching.pdb
+D:\student\6sem\ProgIntServ\Caching\Caching\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\student\6sem\ProgIntServ\Caching\Caching\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\student\6sem\ProgIntServ\Caching\Caching\obj\Debug\Caching.csprojResolveAssemblyReference.cache
+D:\student\6sem\ProgIntServ\Caching\Caching\obj\Debug\Caching.csproj.CoreCompileInputs.cache
+D:\student\6sem\ProgIntServ\Caching\Caching\obj\Debug\Caching.dll
+D:\student\6sem\ProgIntServ\Caching\Caching\obj\Debug\Caching.pdb
+D:\student\6sem\ProgIntServ\lab5\Caching\Caching\bin\Caching.dll.config
+D:\student\6sem\ProgIntServ\lab5\Caching\Caching\bin\Caching.dll
+D:\student\6sem\ProgIntServ\lab5\Caching\Caching\bin\Caching.pdb
+D:\student\6sem\ProgIntServ\lab5\Caching\Caching\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\student\6sem\ProgIntServ\lab5\Caching\Caching\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\student\6sem\ProgIntServ\lab5\Caching\Caching\obj\Debug\Caching.csproj.CoreCompileInputs.cache
+D:\student\6sem\ProgIntServ\lab5\Caching\Caching\obj\Debug\Caching.dll
+D:\student\6sem\ProgIntServ\lab5\Caching\Caching\obj\Debug\Caching.pdb
+D:\student\6sem\ProgIntServ\lab5\Caching\Caching\obj\Debug\Caching.csprojResolveAssemblyReference.cache
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab5\Caching\Caching\bin\Caching.dll.config
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab5\Caching\Caching\bin\Caching.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab5\Caching\Caching\bin\Caching.pdb
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab5\Caching\Caching\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab5\Caching\Caching\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab5\Caching\Caching\obj\Debug\Caching.csprojResolveAssemblyReference.cache
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab5\Caching\Caching\obj\Debug\Caching.csproj.CoreCompileInputs.cache
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab5\Caching\Caching\obj\Debug\Caching.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab5\Caching\Caching\obj\Debug\Caching.pdb

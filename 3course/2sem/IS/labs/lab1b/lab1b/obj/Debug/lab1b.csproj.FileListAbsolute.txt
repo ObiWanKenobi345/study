@@ -1,0 +1,8 @@
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\lab1b\lab1b\bin\lab1b.dll.config
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\lab1b\lab1b\bin\lab1b.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\lab1b\lab1b\bin\lab1b.pdb
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\lab1b\lab1b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\lab1b\lab1b\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\lab1b\lab1b\obj\Debug\lab1b.csproj.CoreCompileInputs.cache
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\lab1b\lab1b\obj\Debug\lab1b.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\lab1b\lab1b\obj\Debug\lab1b.pdb

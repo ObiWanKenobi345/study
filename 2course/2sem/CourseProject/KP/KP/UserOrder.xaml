@@ -1,0 +1,74 @@
+﻿<Window x:Class="KP.UserOrder"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KP"
+        mc:Ignorable="d"
+        Title="UserOrder"  Height="566.38" Width="840" WindowStartupLocation="CenterScreen" Background="#EC7272">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="158*"/>
+            <ColumnDefinition Width="675*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Ингредиент" HorizontalAlignment="Left" Height="27" Margin="5,68,0,0" VerticalAlignment="Top" Width="77" Foreground="White"/>
+        <ComboBox Name="ProductComboBox" HorizontalAlignment="Left" Height="26" Margin="5,100,0,0" VerticalAlignment="Top" Width="153" Foreground="#616A79" FontSize="16">
+            <TextBlock>Лепешка</TextBlock>
+            <TextBlock>Курица</TextBlock>
+            <TextBlock>Сыр</TextBlock>
+            <TextBlock>Помидор</TextBlock>
+            <TextBlock>Салат</TextBlock>
+            <TextBlock>Яйцо</TextBlock>
+            <TextBlock>Мука</TextBlock>
+            <TextBlock>Огурец</TextBlock>
+            <TextBlock>Булочка</TextBlock>
+            <TextBlock>Лук</TextBlock>
+            <TextBlock>Майонез</TextBlock>
+            <TextBlock>Горчица</TextBlock>
+            <TextBlock>Гренки</TextBlock>
+            <TextBlock>Картофель</TextBlock>
+            <TextBlock>Масло</TextBlock>
+            <TextBlock>Кола</TextBlock>
+            <TextBlock>Фанта</TextBlock>
+            <TextBlock>Спрайт</TextBlock>
+            <TextBlock>Вода BonAqua</TextBlock>
+            <TextBlock>Чай</TextBlock>
+            <TextBlock>Кофе</TextBlock>
+            <TextBlock>Сок апельсиновый</TextBlock>
+            <TextBlock>Сок яблочный</TextBlock>
+            <TextBlock>Пиво</TextBlock>
+            <TextBlock>Молоко</TextBlock>
+            <TextBlock>Мороженое</TextBlock>
+            <TextBlock>Шоколад</TextBlock>
+            <TextBlock>Джем</TextBlock>
+            <TextBlock>Соус Сырный оригинальный</TextBlock>
+            <TextBlock>Кетчуп томатный</TextBlock>
+            <TextBlock>Соус Кисло-сладкий оригинальный</TextBlock>
+            <TextBlock>Соус Чесночный</TextBlock>
+            <TextBlock>Соус Терияки</TextBlock>
+            <TextBlock>Соус Барбекью</TextBlock>
+        </ComboBox>
+        <Label Content="Количество" HorizontalAlignment="Left" Height="28" Margin="5,131,0,0" VerticalAlignment="Top" Width="77" RenderTransformOrigin="0.508,0.317" Foreground="White"/>
+        <TextBox Name="QuantityTextBox" HorizontalAlignment="Left" Height="26" Margin="5,159,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="153" Background="#EFE2CC" Foreground="#616A79" FontSize="18" MaxLength="3"/>
+        <Label Content="Единица измерения" HorizontalAlignment="Left" Height="24" Margin="5,190,0,0" VerticalAlignment="Top" Width="153" Foreground="White"/>
+        <ComboBox Name="UnitComboBox" HorizontalAlignment="Left" Height="26" Margin="5,214,0,0" VerticalAlignment="Top" Width="153" Foreground="#616A79" FontSize="16">
+            <TextBlock>кг</TextBlock>
+            <TextBlock>л</TextBlock>
+            <TextBlock>шт</TextBlock>
+        </ComboBox>
+        <Label Content="Кафе" HorizontalAlignment="Left" Height="27" Margin="5,245,0,0" VerticalAlignment="Top" Width="82" Foreground="White"/>
+        <ComboBox Name="CafeComboBox" HorizontalAlignment="Left" Height="25" Margin="5,272,0,0" VerticalAlignment="Top" Width="153" Foreground="#616A79" FontSize="16">
+            <TextBlock>KFC Бобруйская</TextBlock>
+            <TextBlock>KFC Ворота Минска</TextBlock>
+            <TextBlock>KFC Столица Минск</TextBlock>
+        </ComboBox>
+        <DataGrid Name="grdTable" Grid.Column="1" HorizontalAlignment="Left" Height="377" VerticalAlignment="Top" Width="626" Margin="18.6,71,0,0" Background="#EFE2CC"/>
+        <Button Content="Назад" Click="ButtonBackClick" HorizontalAlignment="Left" Height="40" Margin="23,473,0,0" VerticalAlignment="Top" Width="111" Background="#EFE2CC" Foreground="#616A79" FontSize="18" BorderBrush="Azure"/>
+        <Button Content="Заказать" Click="ButtonAddClick" HorizontalAlignment="Left" Height="40" Margin="23,408,0,0" VerticalAlignment="Top" Width="111" Background="#EFE2CC" Foreground="#616A79" FontSize="18" BorderBrush="Azure"/>
+        <Button Content="Обновить" Click="ButtonUpdateClick" Grid.Column="1" HorizontalAlignment="Left" Height="40" Margin="520.6,473,0,0" VerticalAlignment="Top" Width="124" Background="#EFE2CC" Foreground="#616A79" FontSize="18" BorderBrush="Azure"/>
+        <Label Content="Заказ сотрудника" Foreground="White" FontSize="30" HorizontalAlignment="Center" Height="56" Margin="205.6,10,191.6,0" VerticalAlignment="Top" Width="278" Grid.Column="1"/>
+
+
+    </Grid>
+</Window>

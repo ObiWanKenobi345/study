@@ -1,0 +1,71 @@
+﻿<Window x:Class="lab8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab8"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="537.766" Width="935.639" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="126*"></ColumnDefinition>
+            <ColumnDefinition Width="126*"></ColumnDefinition>
+            <ColumnDefinition Width="126*"></ColumnDefinition>
+            <ColumnDefinition Width="126*"></ColumnDefinition>
+            <ColumnDefinition Width="126*"></ColumnDefinition>
+            <ColumnDefinition Width="126*"></ColumnDefinition>
+            <ColumnDefinition Width="111*"></ColumnDefinition>
+            <ColumnDefinition Width="14*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="4" Grid.ColumnSpan="3" HorizontalAlignment="Center" FontSize="30" Margin="77.8,7,101.4,2.8" Width="180">Водитель</TextBlock>
+        <StackPanel Grid.RowSpan="5" Grid.Column="3" Grid.ColumnSpan="4" HorizontalAlignment="Center" Margin="87.6,2.2,57.4,-2" Width="339" Grid.Row="1">
+            <TextBlock FontSize="20">Имя</TextBlock>
+            <TextBox x:Name="User_Name" MinWidth="200"></TextBox>
+            <TextBlock FontSize="20" Margin="0 10 0 0">возраст</TextBlock>
+            <TextBox x:Name="User_Age" MinWidth="200"></TextBox>
+            <TextBlock FontSize="20" Margin="0 10 0 0">Id машины</TextBlock>
+            <TextBox x:Name="User_Car_Id" MinWidth="200"></TextBox>
+            <Button x:Name="User_Add" Margin="0 30 0 0" Click="User_Add_Click">Добавить</Button>
+            <Button x:Name="User_Delete" Click="User_Delete_Click">Удалить</Button>
+            <Button x:Name="User_Update" Click="User_Update_Click">Обновить</Button>
+            <DataGrid AutoGenerateColumns="False" CanUserDeleteRows="True" Name="UsersGrid" ItemsSource="{Binding Users}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding Id}" Header="ID" Width="0.5*"/>
+                    <DataGridTextColumn Binding="{Binding Name}" Header="Имя" Width="1*"/>
+                    <DataGridTextColumn Binding="{Binding Age}" Header="Возраст" Width="0.75*"/>
+                    <DataGridTextColumn Binding="{Binding CarId}" Header="ID машины" Width="0.75*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+
+
+        <TextBlock Grid.Column="1" HorizontalAlignment="Center" FontSize="30" Margin="22.6,5,54.2,4.8" Grid.ColumnSpan="2" Width="176">Транспорт</TextBlock>
+        <StackPanel Grid.Row="1" Grid.RowSpan="5" HorizontalAlignment="Center" Margin="61,5.2,108.6,-6" Width="336" Grid.ColumnSpan="4">
+            <TextBlock FontSize="20">Модель</TextBlock>
+            <TextBox x:Name="Car_Model" MinWidth="200"></TextBox>
+            <TextBlock FontSize="20" Margin="0 10 0 0">Цвет</TextBlock>
+            <TextBox x:Name="Car_color" MinWidth="200"></TextBox>
+            <TextBlock FontSize="20" Margin="0 10 0 0">Год выпуска</TextBlock>
+            <TextBox x:Name="Car_year" MinWidth="200"></TextBox>
+            <Button x:Name="Car_Add" Margin="0 25 0 0" Click="Car_Add_Click">Добавить</Button>
+            <Button x:Name="Car_Delete" Click="Car_Delete_Click">Удалить</Button>
+            <Button x:Name="Car_Update" Click="Car_Update_Click">Обновить</Button>
+            <DataGrid AutoGenerateColumns="False" CanUserDeleteRows="True" Name="CarsGrid" ItemsSource="{Binding Users}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding Id}" Header="ID" Width="0.5*"/>
+                    <DataGridTextColumn Binding="{Binding Model}" Header="Модель" Width="1*"/>
+                    <DataGridTextColumn Binding="{Binding Color}" Header="Цвет" Width="0.75*"/>
+                    <DataGridTextColumn Binding="{Binding Color}" Header="Год выпуска" Width="0.75*"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</Window>

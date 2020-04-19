@@ -1,0 +1,665 @@
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/ApplicationInsights.config
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/csc.exe
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/csc.exe.config
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/csc.rsp
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/csi.exe
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/csi.exe.config
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/csi.rsp
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/Microsoft.CodeAnalysis.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/Microsoft.CSharp.Core.targets
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/Microsoft.VisualBasic.Core.targets
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/Microsoft.Win32.Primitives.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.AppContext.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.Collections.Immutable.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.Console.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.Diagnostics.Process.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.Diagnostics.StackTrace.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.IO.Compression.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.IO.FileSystem.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.IO.FileSystem.DriveInfo.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.IO.FileSystem.Primitives.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.IO.Pipes.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.Reflection.Metadata.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.Security.AccessControl.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.Security.Claims.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.Security.Cryptography.Encoding.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.Security.Cryptography.Primitives.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.Security.Principal.Windows.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.Text.Encoding.CodePages.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.Threading.Thread.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.ValueTuple.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.Xml.ReaderWriter.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.Xml.XmlDocument.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.Xml.XPath.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/System.Xml.XPath.XDocument.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/vbc.exe
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/vbc.exe.config
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/vbc.rsp
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/VBCSCompiler.exe
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/roslyn/VBCSCompiler.exe.config
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/WebApi.dll.config
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/WebApi.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/WebApi.pdb
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/Antlr3.Runtime.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/EntityFramework.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/EntityFramework.SqlServer.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/Microsoft.AI.Agent.Intercept.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/Microsoft.AI.DependencyCollector.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/Microsoft.AI.PerfCounterCollector.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/Microsoft.AI.ServerTelemetryChannel.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/Microsoft.AI.Web.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/Microsoft.AI.WindowsServer.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/Microsoft.ApplicationInsights.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/Microsoft.Web.Infrastructure.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/Newtonsoft.Json.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/System.Net.Http.Formatting.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/System.Web.Helpers.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/System.Web.Http.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/System.Web.Http.WebHost.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/System.Web.Mvc.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/System.Web.Optimization.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/System.Web.Razor.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/System.Web.WebPages.Deployment.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/System.Web.WebPages.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/System.Web.WebPages.Razor.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/WebGrease.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/EntityFramework.xml
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/EntityFramework.SqlServer.xml
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/Newtonsoft.Json.xml
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/System.Net.Http.Formatting.xml
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/System.Web.Helpers.xml
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/System.Web.Http.xml
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/System.Web.Http.WebHost.xml
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/System.Web.Mvc.xml
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/System.Web.Optimization.xml
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/System.Web.Razor.xml
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/System.Web.WebPages.xml
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/System.Web.WebPages.Deployment.xml
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/System.Web.WebPages.Razor.xml
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/Antlr3.Runtime.pdb
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/Microsoft.ApplicationInsights.xml
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/Microsoft.AI.DependencyCollector.xml
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/Microsoft.AI.ServerTelemetryChannel.xml
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/Microsoft.AI.WindowsServer.xml
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/Microsoft.AI.Web.xml
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/ru/System.Net.Http.Formatting.resources.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/ru/System.Web.Helpers.resources.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/ru/System.Web.Http.resources.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/ru/System.Web.Http.WebHost.resources.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/ru/System.Web.Mvc.resources.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/ru/System.Web.Optimization.resources.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/ru/System.Web.Razor.resources.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/ru/System.Web.WebPages.resources.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/ru/System.Web.WebPages.Deployment.resources.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/bin/ru/System.Web.WebPages.Razor.resources.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/obj/Debug/WebApi.csprojResolveAssemblyReference.cache
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/obj/Debug/WebApi.csproj.CoreCompileInputs.cache
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/obj/Debug/WebApi.dll
+Y:/Documents/Univer/Internet/lab3_webapi/WebApi/WebApi/obj/Debug/WebApi.pdb
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\ApplicationInsights.config
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\csc.exe
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\csc.exe.config
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\csc.rsp
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\csi.exe
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\csi.exe.config
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\csi.rsp
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.AppContext.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.Collections.Immutable.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.Console.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.Diagnostics.Process.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.IO.Compression.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.IO.FileSystem.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.IO.Pipes.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.Security.AccessControl.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.Security.Claims.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.Threading.Thread.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.ValueTuple.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.Xml.XPath.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\vbc.exe
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\vbc.exe.config
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\vbc.rsp
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\roslyn\VBCSCompiler.exe.config
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\WebApi.dll.config
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\WebApi.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\WebApi.pdb
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\Antlr3.Runtime.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\EntityFramework.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\EntityFramework.SqlServer.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\Microsoft.AI.Web.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\Microsoft.ApplicationInsights.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\Newtonsoft.Json.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\System.Web.Helpers.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\System.Web.Http.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\System.Web.Mvc.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\System.Web.Optimization.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\System.Web.Razor.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\System.Web.WebPages.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\WebGrease.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\EntityFramework.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\EntityFramework.SqlServer.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\Newtonsoft.Json.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\System.Web.Helpers.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\System.Web.Http.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\System.Web.Mvc.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\System.Web.Optimization.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\System.Web.Razor.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\System.Web.WebPages.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\Microsoft.ApplicationInsights.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\Microsoft.AI.WindowsServer.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\Microsoft.AI.Web.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\ru\System.Net.Http.Formatting.resources.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\ru\System.Web.Helpers.resources.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\ru\System.Web.Http.resources.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\ru\System.Web.Http.WebHost.resources.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\ru\System.Web.Mvc.resources.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\ru\System.Web.Optimization.resources.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\ru\System.Web.Razor.resources.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\ru\System.Web.WebPages.resources.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\ru\System.Web.WebPages.Deployment.resources.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\bin\ru\System.Web.WebPages.Razor.resources.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\obj\Debug\WebApi.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3_webapi\lab3_webapi\WebApi\WebApi\obj\Debug\WebApi.pdb
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\ApplicationInsights.config
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\csc.exe
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\csc.exe.config
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\csc.rsp
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\csi.exe
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\csi.exe.config
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\csi.rsp
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.AppContext.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.Collections.Immutable.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.Console.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.Diagnostics.Process.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.IO.Compression.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.IO.FileSystem.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.IO.Pipes.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.Security.AccessControl.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.Security.Claims.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.Threading.Thread.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.ValueTuple.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.Xml.XPath.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\vbc.exe
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\vbc.exe.config
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\vbc.rsp
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\VBCSCompiler.exe
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\roslyn\VBCSCompiler.exe.config
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\WebApi.dll.config
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\WebApi.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\WebApi.pdb
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\Antlr3.Runtime.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\EntityFramework.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\EntityFramework.SqlServer.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\Microsoft.AI.Web.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\Microsoft.AI.WindowsServer.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\Microsoft.ApplicationInsights.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\Microsoft.Web.Infrastructure.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\Newtonsoft.Json.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\System.Net.Http.Formatting.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\System.Web.Helpers.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\System.Web.Http.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\System.Web.Http.WebHost.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\System.Web.Mvc.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\System.Web.Optimization.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\System.Web.Razor.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\System.Web.WebPages.Deployment.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\System.Web.WebPages.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\System.Web.WebPages.Razor.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\WebGrease.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\EntityFramework.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\EntityFramework.SqlServer.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\Newtonsoft.Json.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\System.Net.Http.Formatting.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\System.Web.Helpers.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\System.Web.Http.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\System.Web.Http.WebHost.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\System.Web.Mvc.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\System.Web.Optimization.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\System.Web.Razor.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\System.Web.WebPages.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\System.Web.WebPages.Deployment.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\System.Web.WebPages.Razor.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\Antlr3.Runtime.pdb
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\Microsoft.ApplicationInsights.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\Microsoft.AI.WindowsServer.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\Microsoft.AI.Web.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\ru\System.Net.Http.Formatting.resources.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\ru\System.Web.Helpers.resources.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\ru\System.Web.Http.resources.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\ru\System.Web.Http.WebHost.resources.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\ru\System.Web.Mvc.resources.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\ru\System.Web.Optimization.resources.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\ru\System.Web.Razor.resources.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\ru\System.Web.WebPages.resources.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\ru\System.Web.WebPages.Deployment.resources.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\bin\ru\System.Web.WebPages.Razor.resources.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\obj\Debug\WebApi.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\WebApi\obj\Debug\WebApi.pdb
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\ApplicationInsights.config
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\csc.exe
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\csc.exe.config
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\csc.rsp
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\csi.exe
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\csi.exe.config
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\csi.rsp
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.Console.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\vbc.exe
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\vbc.exe.config
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\vbc.rsp
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\WebApi.dll.config
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\WebApi.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\WebApi.pdb
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\Antlr3.Runtime.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\EntityFramework.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\Microsoft.AI.Web.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\System.Web.Helpers.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\System.Web.Http.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\System.Web.Mvc.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\System.Web.Optimization.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\System.Web.Razor.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\System.Web.WebPages.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\WebGrease.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\EntityFramework.xml
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\System.Web.Helpers.xml
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\System.Web.Http.xml
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\System.Web.Mvc.xml
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\System.Web.Optimization.xml
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\System.Web.Razor.xml
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\System.Web.WebPages.xml
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\Microsoft.AI.Web.xml
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\ru\System.Web.Http.resources.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\obj\Debug\WebApi.dll
+C:\Users\Mikalaj Karhin\source\repos\lab3\WebApi\obj\Debug\WebApi.pdb
+D:\University\ASP.NET\lab3\WebApi\bin\ApplicationInsights.config
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\csc.exe
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\csc.exe.config
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\csc.rsp
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\csi.exe
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\csi.exe.config
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\csi.rsp
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.AppContext.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.Console.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.Diagnostics.Process.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.IO.Compression.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.IO.Pipes.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.Security.AccessControl.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.Security.Claims.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.Threading.Thread.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.ValueTuple.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.Xml.XPath.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\vbc.exe
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\vbc.exe.config
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\vbc.rsp
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\VBCSCompiler.exe
+D:\University\ASP.NET\lab3\WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\University\ASP.NET\lab3\WebApi\bin\WebApi.dll.config
+D:\University\ASP.NET\lab3\WebApi\bin\WebApi.dll
+D:\University\ASP.NET\lab3\WebApi\bin\WebApi.pdb
+D:\University\ASP.NET\lab3\WebApi\bin\Antlr3.Runtime.dll
+D:\University\ASP.NET\lab3\WebApi\bin\EntityFramework.dll
+D:\University\ASP.NET\lab3\WebApi\bin\EntityFramework.SqlServer.dll
+D:\University\ASP.NET\lab3\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\University\ASP.NET\lab3\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\University\ASP.NET\lab3\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\University\ASP.NET\lab3\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\University\ASP.NET\lab3\WebApi\bin\Microsoft.AI.Web.dll
+D:\University\ASP.NET\lab3\WebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\University\ASP.NET\lab3\WebApi\bin\Microsoft.ApplicationInsights.dll
+D:\University\ASP.NET\lab3\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\University\ASP.NET\lab3\WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\University\ASP.NET\lab3\WebApi\bin\Newtonsoft.Json.dll
+D:\University\ASP.NET\lab3\WebApi\bin\System.Net.Http.Formatting.dll
+D:\University\ASP.NET\lab3\WebApi\bin\System.Web.Helpers.dll
+D:\University\ASP.NET\lab3\WebApi\bin\System.Web.Http.dll
+D:\University\ASP.NET\lab3\WebApi\bin\System.Web.Http.WebHost.dll
+D:\University\ASP.NET\lab3\WebApi\bin\System.Web.Mvc.dll
+D:\University\ASP.NET\lab3\WebApi\bin\System.Web.Optimization.dll
+D:\University\ASP.NET\lab3\WebApi\bin\System.Web.Razor.dll
+D:\University\ASP.NET\lab3\WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\University\ASP.NET\lab3\WebApi\bin\System.Web.WebPages.dll
+D:\University\ASP.NET\lab3\WebApi\bin\System.Web.WebPages.Razor.dll
+D:\University\ASP.NET\lab3\WebApi\bin\WebGrease.dll
+D:\University\ASP.NET\lab3\WebApi\bin\EntityFramework.xml
+D:\University\ASP.NET\lab3\WebApi\bin\EntityFramework.SqlServer.xml
+D:\University\ASP.NET\lab3\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\University\ASP.NET\lab3\WebApi\bin\Newtonsoft.Json.xml
+D:\University\ASP.NET\lab3\WebApi\bin\System.Net.Http.Formatting.xml
+D:\University\ASP.NET\lab3\WebApi\bin\System.Web.Helpers.xml
+D:\University\ASP.NET\lab3\WebApi\bin\System.Web.Http.xml
+D:\University\ASP.NET\lab3\WebApi\bin\System.Web.Http.WebHost.xml
+D:\University\ASP.NET\lab3\WebApi\bin\System.Web.Mvc.xml
+D:\University\ASP.NET\lab3\WebApi\bin\System.Web.Optimization.xml
+D:\University\ASP.NET\lab3\WebApi\bin\System.Web.Razor.xml
+D:\University\ASP.NET\lab3\WebApi\bin\System.Web.WebPages.xml
+D:\University\ASP.NET\lab3\WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\University\ASP.NET\lab3\WebApi\bin\System.Web.WebPages.Razor.xml
+D:\University\ASP.NET\lab3\WebApi\bin\Antlr3.Runtime.pdb
+D:\University\ASP.NET\lab3\WebApi\bin\Microsoft.ApplicationInsights.xml
+D:\University\ASP.NET\lab3\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\University\ASP.NET\lab3\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\University\ASP.NET\lab3\WebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\University\ASP.NET\lab3\WebApi\bin\Microsoft.AI.Web.xml
+D:\University\ASP.NET\lab3\WebApi\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\University\ASP.NET\lab3\WebApi\bin\ru\System.Web.Helpers.resources.dll
+D:\University\ASP.NET\lab3\WebApi\bin\ru\System.Web.Http.resources.dll
+D:\University\ASP.NET\lab3\WebApi\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\University\ASP.NET\lab3\WebApi\bin\ru\System.Web.Mvc.resources.dll
+D:\University\ASP.NET\lab3\WebApi\bin\ru\System.Web.Optimization.resources.dll
+D:\University\ASP.NET\lab3\WebApi\bin\ru\System.Web.Razor.resources.dll
+D:\University\ASP.NET\lab3\WebApi\bin\ru\System.Web.WebPages.resources.dll
+D:\University\ASP.NET\lab3\WebApi\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\University\ASP.NET\lab3\WebApi\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\University\ASP.NET\lab3\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+D:\University\ASP.NET\lab3\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+D:\University\ASP.NET\lab3\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+D:\University\ASP.NET\lab3\WebApi\obj\Debug\WebApi.dll
+D:\University\ASP.NET\lab3\WebApi\obj\Debug\WebApi.pdb
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\ApplicationInsights.config
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\csc.exe
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\csc.exe.config
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\csc.rsp
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\csi.exe
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\csi.exe.config
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\csi.rsp
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.AppContext.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.Console.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.Diagnostics.Process.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.IO.Compression.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.IO.FileSystem.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.IO.Pipes.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.Security.AccessControl.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.Security.Claims.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.Threading.Thread.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.ValueTuple.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.Xml.XPath.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\vbc.exe
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\vbc.exe.config
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\vbc.rsp
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\VBCSCompiler.exe
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\WebApi.dll.config
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\WebApi.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\WebApi.pdb
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\Antlr3.Runtime.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\EntityFramework.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\EntityFramework.SqlServer.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\Microsoft.AI.DependencyCollector.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\Microsoft.AI.Web.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\Microsoft.AI.WindowsServer.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\Microsoft.ApplicationInsights.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\Newtonsoft.Json.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\System.Net.Http.Formatting.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\System.Web.Helpers.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\System.Web.Http.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\System.Web.Http.WebHost.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\System.Web.Mvc.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\System.Web.Optimization.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\System.Web.Razor.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\System.Web.WebPages.Deployment.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\System.Web.WebPages.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\System.Web.WebPages.Razor.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\WebGrease.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\EntityFramework.xml
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\EntityFramework.SqlServer.xml
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\Newtonsoft.Json.xml
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\System.Net.Http.Formatting.xml
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\System.Web.Helpers.xml
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\System.Web.Http.xml
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\System.Web.Http.WebHost.xml
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\System.Web.Mvc.xml
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\System.Web.Optimization.xml
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\System.Web.Razor.xml
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\System.Web.WebPages.xml
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\System.Web.WebPages.Deployment.xml
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\System.Web.WebPages.Razor.xml
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\Antlr3.Runtime.pdb
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\Microsoft.ApplicationInsights.xml
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\Microsoft.AI.DependencyCollector.xml
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\Microsoft.AI.WindowsServer.xml
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\Microsoft.AI.Web.xml
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\ru\System.Net.Http.Formatting.resources.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\ru\System.Web.Helpers.resources.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\ru\System.Web.Http.resources.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\ru\System.Web.Http.WebHost.resources.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\ru\System.Web.Mvc.resources.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\ru\System.Web.Optimization.resources.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\ru\System.Web.Razor.resources.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\ru\System.Web.WebPages.resources.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\obj\Debug\WebApi.csprojAssemblyReference.cache
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\obj\Debug\WebApi.csproj.CopyComplete
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\obj\Debug\WebApi.dll
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\obj\Debug\WebApi.pdb
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\obj\Debug\WebApi.Migrations.Initial.resources
+E:\Study\4 course\Программирование в Internet\labs\lab3_1241224142\lab3\WebApi\obj\Debug\WebApi.csproj.GenerateResource.cache

@@ -1,0 +1,7 @@
+E:\Для учёбы\2 курс\ООП\labs\lab3\lab3\bin\Debug\lab3.exe.config
+E:\Для учёбы\2 курс\ООП\labs\lab3\lab3\bin\Debug\lab3.exe
+E:\Для учёбы\2 курс\ООП\labs\lab3\lab3\bin\Debug\lab3.pdb
+E:\Для учёбы\2 курс\ООП\labs\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+E:\Для учёбы\2 курс\ООП\labs\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+E:\Для учёбы\2 курс\ООП\labs\lab3\lab3\obj\Debug\lab3.exe
+E:\Для учёбы\2 курс\ООП\labs\lab3\lab3\obj\Debug\lab3.pdb

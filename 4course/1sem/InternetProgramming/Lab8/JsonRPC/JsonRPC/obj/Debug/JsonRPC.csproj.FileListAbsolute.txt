@@ -1,0 +1,192 @@
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\JsonRPC.dll.config
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\JsonRPC.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\JsonRPC.pdb
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\csc.exe
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\csc.exe.config
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\csc.rsp
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\csi.exe
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\csi.exe.config
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\csi.rsp
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.AppContext.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.Collections.Immutable.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.Console.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.IO.Compression.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.IO.FileSystem.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.IO.Pipes.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.Reflection.Metadata.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.Security.AccessControl.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.Security.Claims.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.ValueTuple.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.Xml.XPath.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\vbc.exe
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\vbc.exe.config
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\vbc.rsp
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\VBCSCompiler.exe
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\roslyn\VBCSCompiler.exe.config
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\Newtonsoft.Json.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\System.Net.Http.Formatting.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\System.Web.Http.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\System.Web.Http.WebHost.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\Newtonsoft.Json.xml
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\System.Net.Http.Formatting.xml
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\System.Web.Http.xml
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\System.Web.Http.WebHost.xml
+D:\University\ASP.NET\JsonRPC\JsonRPC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\University\ASP.NET\JsonRPC\JsonRPC\obj\Debug\JsonRPC.csprojAssemblyReference.cache
+D:\University\ASP.NET\JsonRPC\JsonRPC\obj\Debug\JsonRPC.csproj.CoreCompileInputs.cache
+D:\University\ASP.NET\JsonRPC\JsonRPC\obj\Debug\JsonRPC.csproj.CopyComplete
+D:\University\ASP.NET\JsonRPC\JsonRPC\obj\Debug\JsonRPC.dll
+D:\University\ASP.NET\JsonRPC\JsonRPC\obj\Debug\JsonRPC.pdb
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\JsonRPC.dll.config
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\JsonRPC.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\JsonRPC.pdb
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\csc.exe
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\csc.exe.config
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\csc.rsp
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\csi.exe
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\csi.exe.config
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\csi.rsp
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.AppContext.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.Collections.Immutable.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.Console.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.IO.Compression.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.IO.FileSystem.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.IO.Pipes.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.Reflection.Metadata.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.Security.AccessControl.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.Security.Claims.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.Security.Principal.Windows.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.ValueTuple.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.Xml.XPath.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\vbc.exe
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\vbc.exe.config
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\vbc.rsp
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\VBCSCompiler.exe
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\roslyn\VBCSCompiler.exe.config
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\Newtonsoft.Json.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\System.Net.Http.Formatting.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\System.Web.Http.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\System.Web.Http.WebHost.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\Newtonsoft.Json.xml
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\System.Net.Http.Formatting.xml
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\System.Web.Http.xml
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\System.Web.Http.WebHost.xml
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\obj\Debug\JsonRPC.csprojResolveAssemblyReference.cache
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\obj\Debug\JsonRPC.csproj.CoreCompileInputs.cache
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\obj\Debug\JsonRPC.csproj.CopyComplete
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\obj\Debug\JsonRPC.dll
+D:\study\7 sem\PI\JsonRPC\JsonRPC\JsonRPC\obj\Debug\JsonRPC.pdb
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\JsonRPC.dll.config
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\JsonRPC.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\JsonRPC.pdb
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\csc.exe
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\csc.exe.config
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\csc.rsp
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\csi.exe
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\csi.exe.config
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\csi.rsp
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.AppContext.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.Collections.Immutable.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.Console.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.IO.Compression.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.IO.FileSystem.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.IO.Pipes.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.Reflection.Metadata.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.Security.AccessControl.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.Security.Claims.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.ValueTuple.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.Xml.XPath.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\vbc.exe
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\vbc.exe.config
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\vbc.rsp
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\VBCSCompiler.exe
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\roslyn\VBCSCompiler.exe.config
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\Newtonsoft.Json.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\System.Net.Http.Formatting.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\System.Web.Http.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\System.Web.Http.WebHost.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\Newtonsoft.Json.xml
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\System.Net.Http.Formatting.xml
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\System.Web.Http.xml
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\System.Web.Http.WebHost.xml
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\obj\Debug\JsonRPC.csprojAssemblyReference.cache
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\obj\Debug\JsonRPC.csproj.CoreCompileInputs.cache
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\obj\Debug\JsonRPC.csproj.CopyComplete
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\obj\Debug\JsonRPC.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab8\JsonRPC\JsonRPC\obj\Debug\JsonRPC.pdb

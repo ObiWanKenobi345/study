@@ -1,0 +1,172 @@
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\4_lab.dll.config
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\4_lab.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\4_lab.pdb
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\csc.exe
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\csc.exe.config
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\csc.rsp
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\csi.exe
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\csi.exe.config
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\csi.rsp
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.AppContext.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.Collections.Immutable.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.Console.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.Diagnostics.Process.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.IO.Compression.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.IO.FileSystem.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.IO.Pipes.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.Reflection.Metadata.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.Security.AccessControl.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.Security.Claims.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.Threading.Thread.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.ValueTuple.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.Xml.XPath.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\vbc.exe
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\vbc.exe.config
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\vbc.rsp
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\VBCSCompiler.exe
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\roslyn\VBCSCompiler.exe.config
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\obj\Debug\4_lab.csprojResolveAssemblyReference.cache
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\obj\Debug\4_lab.csproj.CoreCompileInputs.cache
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\obj\Debug\4_lab.csproj.CopyComplete
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\obj\Debug\4_lab.dll
+D:\Документы\3 курс\2 семестр\Программирование Интернет-серверов\Лабораторные\4_lab\4_lab\obj\Debug\4_lab.pdb
+G:\4_lab\4_lab\bin\4_lab.dll.config
+G:\4_lab\4_lab\bin\4_lab.dll
+G:\4_lab\4_lab\bin\4_lab.pdb
+G:\4_lab\4_lab\bin\roslyn\csc.exe
+G:\4_lab\4_lab\bin\roslyn\csc.exe.config
+G:\4_lab\4_lab\bin\roslyn\csc.rsp
+G:\4_lab\4_lab\bin\roslyn\csi.exe
+G:\4_lab\4_lab\bin\roslyn\csi.exe.config
+G:\4_lab\4_lab\bin\roslyn\csi.rsp
+G:\4_lab\4_lab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\4_lab\4_lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\4_lab\4_lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\4_lab\4_lab\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\4_lab\4_lab\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\4_lab\4_lab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\4_lab\4_lab\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\4_lab\4_lab\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\4_lab\4_lab\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\4_lab\4_lab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\4_lab\4_lab\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\4_lab\4_lab\bin\roslyn\System.AppContext.dll
+G:\4_lab\4_lab\bin\roslyn\System.Collections.Immutable.dll
+G:\4_lab\4_lab\bin\roslyn\System.Console.dll
+G:\4_lab\4_lab\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\4_lab\4_lab\bin\roslyn\System.Diagnostics.Process.dll
+G:\4_lab\4_lab\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\4_lab\4_lab\bin\roslyn\System.IO.Compression.dll
+G:\4_lab\4_lab\bin\roslyn\System.IO.FileSystem.dll
+G:\4_lab\4_lab\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\4_lab\4_lab\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\4_lab\4_lab\bin\roslyn\System.IO.Pipes.dll
+G:\4_lab\4_lab\bin\roslyn\System.Reflection.Metadata.dll
+G:\4_lab\4_lab\bin\roslyn\System.Security.AccessControl.dll
+G:\4_lab\4_lab\bin\roslyn\System.Security.Claims.dll
+G:\4_lab\4_lab\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\4_lab\4_lab\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\4_lab\4_lab\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\4_lab\4_lab\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\4_lab\4_lab\bin\roslyn\System.Security.Principal.Windows.dll
+G:\4_lab\4_lab\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\4_lab\4_lab\bin\roslyn\System.Threading.Thread.dll
+G:\4_lab\4_lab\bin\roslyn\System.ValueTuple.dll
+G:\4_lab\4_lab\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\4_lab\4_lab\bin\roslyn\System.Xml.XmlDocument.dll
+G:\4_lab\4_lab\bin\roslyn\System.Xml.XPath.dll
+G:\4_lab\4_lab\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\4_lab\4_lab\bin\roslyn\vbc.exe
+G:\4_lab\4_lab\bin\roslyn\vbc.exe.config
+G:\4_lab\4_lab\bin\roslyn\vbc.rsp
+G:\4_lab\4_lab\bin\roslyn\VBCSCompiler.exe
+G:\4_lab\4_lab\bin\roslyn\VBCSCompiler.exe.config
+G:\4_lab\4_lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\4_lab\4_lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\4_lab\4_lab\obj\Debug\4_lab.csprojResolveAssemblyReference.cache
+G:\4_lab\4_lab\obj\Debug\4_lab.csproj.CoreCompileInputs.cache
+G:\4_lab\4_lab\obj\Debug\4_lab.dll
+G:\4_lab\4_lab\obj\Debug\4_lab.pdb
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\4_lab.dll.config
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\4_lab.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\4_lab.pdb
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\csc.exe
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\csc.exe.config
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\csc.rsp
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\csi.exe
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\csi.exe.config
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\csi.rsp
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.AppContext.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.Collections.Immutable.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.Console.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.Diagnostics.Process.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.IO.Compression.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.IO.FileSystem.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.IO.Pipes.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.Reflection.Metadata.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.Security.AccessControl.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.Security.Claims.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.Security.Principal.Windows.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.Threading.Thread.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.ValueTuple.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.Xml.XmlDocument.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.Xml.XPath.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\vbc.exe
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\vbc.exe.config
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\vbc.rsp
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\VBCSCompiler.exe
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\roslyn\VBCSCompiler.exe.config
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\obj\Debug\4_lab.csprojResolveAssemblyReference.cache
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\obj\Debug\4_lab.csproj.CoreCompileInputs.cache
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\obj\Debug\4_lab.dll
+D:\student\6sem\ProgIntServ\Lab4\4_lab\4_lab\obj\Debug\4_lab.pdb

@@ -1,0 +1,13 @@
+D:\University\ASP.NET\Lab5\TCPEndpoint\bin\Debug\TCPEndpoint.exe.config
+D:\University\ASP.NET\Lab5\TCPEndpoint\bin\Debug\TCPEndpoint.exe
+D:\University\ASP.NET\Lab5\TCPEndpoint\bin\Debug\TCPEndpoint.pdb
+D:\University\ASP.NET\Lab5\TCPEndpoint\obj\Debug\TCPEndpoint.csproj.CoreCompileInputs.cache
+D:\University\ASP.NET\Lab5\TCPEndpoint\obj\Debug\TCPEndpoint.exe
+D:\University\ASP.NET\Lab5\TCPEndpoint\obj\Debug\TCPEndpoint.pdb
+E:\Study\4 course\Программирование в Internet\labs\Lab5\TCPEndpoint\bin\Debug\TCPEndpoint.exe.config
+E:\Study\4 course\Программирование в Internet\labs\Lab5\TCPEndpoint\bin\Debug\TCPEndpoint.exe
+E:\Study\4 course\Программирование в Internet\labs\Lab5\TCPEndpoint\bin\Debug\TCPEndpoint.pdb
+E:\Study\4 course\Программирование в Internet\labs\Lab5\TCPEndpoint\obj\Debug\TCPEndpoint.csprojAssemblyReference.cache
+E:\Study\4 course\Программирование в Internet\labs\Lab5\TCPEndpoint\obj\Debug\TCPEndpoint.csproj.CoreCompileInputs.cache
+E:\Study\4 course\Программирование в Internet\labs\Lab5\TCPEndpoint\obj\Debug\TCPEndpoint.exe
+E:\Study\4 course\Программирование в Internet\labs\Lab5\TCPEndpoint\obj\Debug\TCPEndpoint.pdb

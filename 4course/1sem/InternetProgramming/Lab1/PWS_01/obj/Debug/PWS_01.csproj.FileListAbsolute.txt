@@ -1,0 +1,416 @@
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\PWS_01.dll.config
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\PWS_01.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\PWS_01.pdb
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\csc.exe
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\csc.exe.config
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\csc.rsp
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\csi.exe
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\csi.exe.config
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\csi.rsp
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.AppContext.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.Console.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.Threading.Thread.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\vbc.exe
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\vbc.exe.config
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\vbc.rsp
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\PWS_01\PWS_01\obj\Debug\PWS_01.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PWS_01\PWS_01\obj\Debug\PWS_01.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PWS_01\PWS_01\obj\Debug\PWS_01.csproj.CopyComplete
+C:\Users\User\source\repos\PWS_01\PWS_01\obj\Debug\PWS_01.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\obj\Debug\PWS_01.pdb
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\Newtonsoft.Json.dll
+C:\Users\User\source\repos\PWS_01\PWS_01\bin\Newtonsoft.Json.xml
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\PWS_01.dll.config
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\PWS_01.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\PWS_01.pdb
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\csc.exe
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\csc.exe.config
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\csc.rsp
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\csi.exe
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\csi.exe.config
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\csi.rsp
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.AppContext.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Collections.Immutable.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Console.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Diagnostics.Process.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.IO.Compression.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.IO.FileSystem.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.IO.Pipes.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Reflection.Metadata.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Security.AccessControl.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Security.Claims.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Security.Principal.Windows.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Threading.Thread.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.ValueTuple.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Xml.XmlDocument.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Xml.XPath.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\vbc.exe
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\vbc.exe.config
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\vbc.rsp
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\VBCSCompiler.exe
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\roslyn\VBCSCompiler.exe.config
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\Newtonsoft.Json.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\Newtonsoft.Json.xml
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\obj\Debug\PWS_01.csprojResolveAssemblyReference.cache
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\obj\Debug\PWS_01.dll
+D:\БГТУ\ПИС\Лабы\ПИС_1\PWS_01\obj\Debug\PWS_01.pdb
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\PWS_01.dll.config
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\PWS_01.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\PWS_01.pdb
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\csc.exe
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\csc.exe.config
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\csc.rsp
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\csi.exe
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\csi.exe.config
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\csi.rsp
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.AppContext.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Collections.Immutable.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Console.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Diagnostics.Process.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.IO.Compression.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.IO.FileSystem.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.IO.Pipes.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Reflection.Metadata.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Security.AccessControl.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Security.Claims.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Security.Principal.Windows.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Threading.Thread.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.ValueTuple.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Xml.XmlDocument.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Xml.XPath.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\vbc.exe
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\vbc.exe.config
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\vbc.rsp
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\VBCSCompiler.exe
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\roslyn\VBCSCompiler.exe.config
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\Newtonsoft.Json.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\Newtonsoft.Json.xml
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\obj\Debug\PWS_01.dll
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\obj\Debug\PWS_01.pdb
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\obj\Debug\PWS_01.csprojAssemblyReference.cache
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\obj\Debug\PWS_01.csproj.CoreCompileInputs.cache
+D:\study\7\PWS\Laby\Лабы\ПИС_1\PWS_01\obj\Debug\PWS_01.csproj.CopyComplete
+D:\study\7 sem\ПИС_1\PWS_01\bin\PWS_01.dll.config
+D:\study\7 sem\ПИС_1\PWS_01\bin\PWS_01.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\PWS_01.pdb
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\csc.exe
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\csc.exe.config
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\csc.rsp
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\csi.exe
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\csi.exe.config
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\csi.rsp
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.AppContext.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.Collections.Immutable.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.Console.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.Diagnostics.Process.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.IO.Compression.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.IO.FileSystem.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.IO.Pipes.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.Reflection.Metadata.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.Security.AccessControl.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.Security.Claims.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.Security.Principal.Windows.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.Threading.Thread.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.ValueTuple.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.Xml.XmlDocument.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.Xml.XPath.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\vbc.exe
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\vbc.exe.config
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\vbc.rsp
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\VBCSCompiler.exe
+D:\study\7 sem\ПИС_1\PWS_01\bin\roslyn\VBCSCompiler.exe.config
+D:\study\7 sem\ПИС_1\PWS_01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\Newtonsoft.Json.dll
+D:\study\7 sem\ПИС_1\PWS_01\bin\Newtonsoft.Json.xml
+D:\study\7 sem\ПИС_1\PWS_01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\study\7 sem\ПИС_1\PWS_01\obj\Debug\PWS_01.csprojResolveAssemblyReference.cache
+D:\study\7 sem\ПИС_1\PWS_01\obj\Debug\PWS_01.csproj.CoreCompileInputs.cache
+D:\study\7 sem\ПИС_1\PWS_01\obj\Debug\PWS_01.csproj.CopyComplete
+D:\study\7 sem\ПИС_1\PWS_01\obj\Debug\PWS_01.dll
+D:\study\7 sem\ПИС_1\PWS_01\obj\Debug\PWS_01.pdb
+D:\study\7 sem\PI1\PWS_01\bin\PWS_01.dll.config
+D:\study\7 sem\PI1\PWS_01\bin\PWS_01.dll
+D:\study\7 sem\PI1\PWS_01\bin\PWS_01.pdb
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\csc.exe
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\csc.exe.config
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\csc.rsp
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\csi.exe
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\csi.exe.config
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\csi.rsp
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.AppContext.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.Collections.Immutable.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.Console.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.Diagnostics.Process.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.IO.Compression.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.IO.FileSystem.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.IO.Pipes.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.Reflection.Metadata.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.Security.AccessControl.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.Security.Claims.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.Security.Principal.Windows.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.Threading.Thread.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.ValueTuple.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.Xml.XmlDocument.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.Xml.XPath.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\vbc.exe
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\vbc.exe.config
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\vbc.rsp
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\VBCSCompiler.exe
+D:\study\7 sem\PI1\PWS_01\bin\roslyn\VBCSCompiler.exe.config
+D:\study\7 sem\PI1\PWS_01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\study\7 sem\PI1\PWS_01\bin\Newtonsoft.Json.dll
+D:\study\7 sem\PI1\PWS_01\bin\Newtonsoft.Json.xml
+D:\study\7 sem\PI1\PWS_01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\study\7 sem\PI1\PWS_01\obj\Debug\PWS_01.csproj.CoreCompileInputs.cache
+D:\study\7 sem\PI1\PWS_01\obj\Debug\PWS_01.csproj.CopyComplete
+D:\study\7 sem\PI1\PWS_01\obj\Debug\PWS_01.dll
+D:\study\7 sem\PI1\PWS_01\obj\Debug\PWS_01.pdb
+E:\7 sem\PI1\PWS_01\bin\PWS_01.dll.config
+E:\7 sem\PI1\PWS_01\bin\PWS_01.dll
+E:\7 sem\PI1\PWS_01\bin\PWS_01.pdb
+E:\7 sem\PI1\PWS_01\bin\roslyn\csc.exe
+E:\7 sem\PI1\PWS_01\bin\roslyn\csc.exe.config
+E:\7 sem\PI1\PWS_01\bin\roslyn\csc.rsp
+E:\7 sem\PI1\PWS_01\bin\roslyn\csi.exe
+E:\7 sem\PI1\PWS_01\bin\roslyn\csi.exe.config
+E:\7 sem\PI1\PWS_01\bin\roslyn\csi.rsp
+E:\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\7 sem\PI1\PWS_01\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.AppContext.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.Collections.Immutable.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.Console.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.Diagnostics.Process.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.IO.Compression.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.IO.FileSystem.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.IO.Pipes.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.Reflection.Metadata.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.Security.AccessControl.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.Security.Claims.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.Security.Principal.Windows.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.Threading.Thread.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.ValueTuple.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.Xml.XmlDocument.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.Xml.XPath.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\7 sem\PI1\PWS_01\bin\roslyn\vbc.exe
+E:\7 sem\PI1\PWS_01\bin\roslyn\vbc.exe.config
+E:\7 sem\PI1\PWS_01\bin\roslyn\vbc.rsp
+E:\7 sem\PI1\PWS_01\bin\roslyn\VBCSCompiler.exe
+E:\7 sem\PI1\PWS_01\bin\roslyn\VBCSCompiler.exe.config
+E:\7 sem\PI1\PWS_01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\7 sem\PI1\PWS_01\bin\Newtonsoft.Json.dll
+E:\7 sem\PI1\PWS_01\bin\Newtonsoft.Json.xml
+E:\7 sem\PI1\PWS_01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\7 sem\PI1\PWS_01\obj\Debug\PWS_01.csproj.CoreCompileInputs.cache
+E:\7 sem\PI1\PWS_01\obj\Debug\PWS_01.csproj.CopyComplete
+E:\7 sem\PI1\PWS_01\obj\Debug\PWS_01.dll
+E:\7 sem\PI1\PWS_01\obj\Debug\PWS_01.pdb
+E:\labfolder\PI1\PWS_01\bin\PWS_01.dll.config
+E:\labfolder\PI1\PWS_01\bin\PWS_01.dll
+E:\labfolder\PI1\PWS_01\bin\PWS_01.pdb
+E:\labfolder\PI1\PWS_01\bin\roslyn\csc.exe
+E:\labfolder\PI1\PWS_01\bin\roslyn\csc.exe.config
+E:\labfolder\PI1\PWS_01\bin\roslyn\csc.rsp
+E:\labfolder\PI1\PWS_01\bin\roslyn\csi.exe
+E:\labfolder\PI1\PWS_01\bin\roslyn\csi.exe.config
+E:\labfolder\PI1\PWS_01\bin\roslyn\csi.rsp
+E:\labfolder\PI1\PWS_01\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\labfolder\PI1\PWS_01\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\labfolder\PI1\PWS_01\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.AppContext.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.Collections.Immutable.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.Console.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.Diagnostics.Process.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.IO.Compression.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.IO.FileSystem.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.IO.Pipes.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.Reflection.Metadata.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.Security.AccessControl.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.Security.Claims.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.Security.Principal.Windows.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.Threading.Thread.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.ValueTuple.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.Xml.XmlDocument.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.Xml.XPath.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\labfolder\PI1\PWS_01\bin\roslyn\vbc.exe
+E:\labfolder\PI1\PWS_01\bin\roslyn\vbc.exe.config
+E:\labfolder\PI1\PWS_01\bin\roslyn\vbc.rsp
+E:\labfolder\PI1\PWS_01\bin\roslyn\VBCSCompiler.exe
+E:\labfolder\PI1\PWS_01\bin\roslyn\VBCSCompiler.exe.config
+E:\labfolder\PI1\PWS_01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\labfolder\PI1\PWS_01\bin\Newtonsoft.Json.dll
+E:\labfolder\PI1\PWS_01\bin\Newtonsoft.Json.xml
+E:\labfolder\PI1\PWS_01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\labfolder\PI1\PWS_01\obj\Debug\PWS_01.csprojAssemblyReference.cache
+E:\labfolder\PI1\PWS_01\obj\Debug\PWS_01.csproj.CoreCompileInputs.cache
+E:\labfolder\PI1\PWS_01\obj\Debug\PWS_01.csproj.CopyComplete
+E:\labfolder\PI1\PWS_01\obj\Debug\PWS_01.dll
+E:\labfolder\PI1\PWS_01\obj\Debug\PWS_01.pdb

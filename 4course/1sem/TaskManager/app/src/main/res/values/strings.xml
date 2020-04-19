@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="app_title">My tasks</string>
+    <string name="complete_task_activity_title">Completed tasks</string>
+    <string name="all_tags_title">Tags</string>
+    <string name="settings_title">App settings</string>
+
+    <string name="no_pending_task_text">No tasks. Add something!</string>
+    <string name="pending_task_demo_title">Pending task demo title</string>
+    <string name="pending_task_demo_content">Pending task demo content</string>
+    <string name="tag_title_demo_text">Demo tag title</string>
+
+    <string name="completed_task_demo_title">Completed task demo title</string>
+    <string name="completed_task_demo_content">Completed task demo content</string>
+
+    <string name="task_info_demo_tag_text">Programming</string>
+    <string name="task_info_demo_date_text">25 Dec, 2017</string>
+    <string name="task_info_demo_time_from_text">10:20 AM</string>
+
+    <string name="nav_pending_tasks_text">Pending tasks</string>
+    <string name="nav_completed_tasks_text">Completed tasks</string>
+    <string name="nav_tags_text">Tags</string>
+    <string name="nav_settings_text">Settings</string>
+
+
+
+    <string name="no_completed_task_text">No completed tasks</string>
+    <string name="no_tags_available_text">No Tags. Add something!</string>
+
+    <string name="option_completed_search_text">Search</string>
+    <string name="option_completed_delete_text">Clear All</string>
+    <string name="option_completed_settings_text">Settings</string>
+
+    <string name="option_tags_search_text">Search</string>
+    <string name="option_tag_settings_text">Settings</string>
+    <string name="option_save_task_text">Save task</string>
+    <string name="option_tag_edit_text">Edit</string>
+    <string name="option_tag_del_text">Remove</string>
+
+    <string name="option_pending_search_text">Search</string>
+    <string name="option_pending_completed_text">Completed tasks</string>
+    <string name="option_pending_settings_text">Settings</string>
+    <string name="option_all_tags_text">All Tags</string>
+
+    <string name="add_task_dialog_title">Add new task</string>
+    <string name="save_task_dialog_title">Save task</string>
+    <string name="edit_task_dialog_title">Edit task</string>
+    <string name="task_title_hint">Enter title</string>
+    <string name="task_content_hint">Enter some content</string>
+    <string name="task_date_hint">Enter task date</string>
+    <string name="task_time_hint">Enter task time</string>
+    <string name="add_task_dialog_positive_text">Add new task</string>
+    <string name="add_task_dialog_cancel_text">Cancel</string>
+    <string name="task_title_add_success_msg">Task saved successfully!</string>
+
+    <string name="add_tag_dialog_title">Add new tag</string>
+    <string name="edit_tag_dialog_title">Edit tag</string>
+    <string name="add_tag_dialog_positive_text">Add new tag</string>
+    <string name="edit_tag_dialog_positive_text">Save</string>
+    <string name="add_tag_dialog_cancel_text">Cancel</string>
+    <string name="add_tag_text_text_color_text">Tag text color</string>
+    <string name="add_tag_text_background_color_text">Tag background Color</string>
+    <string name="tag_title_add_success_msg">Tag added successfully!</string>
+    <string name="tag_delete_dialog_title">Delete this tag?</string>
+    <string name="tag_delete_dialog_msg">If you delete it, your tasks associated with this tag will also be delete.Do you really want to delete it?</string>
+    <string name="tag_delete_cancel">Cancel</string>
+    <string name="tag_delete_yes">Delete</string>
+    <string name="tag_deleted_success">Tag deleted successfully!</string>
+    <string name="tag_no_delete">Tag not deleted!</string>
+    <string name="edit_tag_dialog_cancel_text">Cancel</string>
+    <string name="tag_edit_yes">Save</string>
+    <string name="tag_edit_cancel">Cancel</string>
+    <string name="tag_saved_success">Tag saved successfully!</string>
+    <string name="tag_no_save">Tag not changed!</string>
+    <string name="tag_create_dialog_title_text">Tag create dialog</string>
+    <string name="no_tag_in_the_db_text">You don’t have tags yet, create the first one to continue</string>
+    <string name="create_new_tag">Create new tag</string>
+
+    <string name="pref_category_title_about">Additional Information</string>
+
+    <string name="tag_title_hint">Enter tag title</string>
+    <string name="edit_tag_title_hint">Enter new tag title</string>
+
+    <string-array name="theme_names">
+        <item>Default</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Violete</item>
+    </string-array>
+
+    <string-array name="theme_values">
+        <item>Default</item>
+        <item>Green</item>
+        <item>Red</item>
+        <item>Violete</item>
+    </string-array>
+
+</resources>

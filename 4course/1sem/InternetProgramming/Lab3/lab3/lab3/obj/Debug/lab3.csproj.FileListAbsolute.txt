@@ -1,0 +1,244 @@
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\csc.exe
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\csc.exe.config
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\csc.rsp
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\csi.exe
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\csi.exe.config
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\csi.rsp
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.AppContext.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.Collections.Immutable.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.Console.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.Diagnostics.Process.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.IO.Compression.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.IO.FileSystem.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.IO.Pipes.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.Reflection.Metadata.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.Security.AccessControl.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.Security.Claims.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.Threading.Thread.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.ValueTuple.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.Xml.XPath.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\vbc.exe
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\vbc.exe.config
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\vbc.rsp
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\VBCSCompiler.exe
+F:\Labs\ProgInternet\lab3\lab3\bin\roslyn\VBCSCompiler.exe.config
+F:\Labs\ProgInternet\lab3\lab3\bin\lab3.dll.config
+F:\Labs\ProgInternet\lab3\lab3\bin\lab3.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\lab3.pdb
+F:\Labs\ProgInternet\lab3\lab3\bin\Autofac.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\Autofac.Integration.WebApi.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\AutoMapper.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\Contracts.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\EntityFramework.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\EntityFramework.SqlServer.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\Newtonsoft.Json.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\NLog.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\Purplelight.Framework.Autofac.Integration.WebApi.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\System.Net.Http.Formatting.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\System.Web.Http.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\System.Web.Http.WebHost.dll
+F:\Labs\ProgInternet\lab3\lab3\bin\Contracts.pdb
+F:\Labs\ProgInternet\lab3\lab3\bin\Autofac.xml
+F:\Labs\ProgInternet\lab3\lab3\bin\Autofac.Integration.WebApi.xml
+F:\Labs\ProgInternet\lab3\lab3\bin\AutoMapper.xml
+F:\Labs\ProgInternet\lab3\lab3\bin\EntityFramework.xml
+F:\Labs\ProgInternet\lab3\lab3\bin\EntityFramework.SqlServer.xml
+F:\Labs\ProgInternet\lab3\lab3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Labs\ProgInternet\lab3\lab3\bin\NLog.xml
+F:\Labs\ProgInternet\lab3\lab3\bin\Newtonsoft.Json.xml
+F:\Labs\ProgInternet\lab3\lab3\bin\System.Net.Http.Formatting.xml
+F:\Labs\ProgInternet\lab3\lab3\bin\System.Web.Http.xml
+F:\Labs\ProgInternet\lab3\lab3\bin\System.Web.Http.WebHost.xml
+F:\Labs\ProgInternet\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+F:\Labs\ProgInternet\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+F:\Labs\ProgInternet\lab3\lab3\obj\Debug\lab3.dll
+F:\Labs\ProgInternet\lab3\lab3\obj\Debug\lab3.pdb
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\csc.exe
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\csc.exe.config
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\csc.rsp
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\csi.exe
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\csi.exe.config
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\csi.rsp
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.Win32.Primitives.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.AppContext.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.Collections.Immutable.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.Console.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.Diagnostics.Process.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.IO.Compression.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.IO.FileSystem.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.IO.Pipes.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.Reflection.Metadata.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.Security.AccessControl.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.Security.Claims.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.Security.Principal.Windows.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.Text.Encoding.CodePages.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.Threading.Thread.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.ValueTuple.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.Xml.ReaderWriter.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.Xml.XmlDocument.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.Xml.XPath.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\System.Xml.XPath.XDocument.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\vbc.exe
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\vbc.exe.config
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\vbc.rsp
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\VBCSCompiler.exe
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\roslyn\VBCSCompiler.exe.config
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\lab3.dll.config
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\lab3.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\lab3.pdb
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\Autofac.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\Autofac.Integration.WebApi.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\AutoMapper.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\Contracts.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\EntityFramework.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\EntityFramework.SqlServer.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\Newtonsoft.Json.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\NLog.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\Purplelight.Framework.Autofac.Integration.WebApi.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\System.Net.Http.Formatting.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\System.Web.Http.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\System.Web.Http.WebHost.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\Contracts.pdb
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\Autofac.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\Autofac.Integration.WebApi.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\AutoMapper.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\EntityFramework.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\EntityFramework.SqlServer.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\NLog.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\Newtonsoft.Json.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\System.Net.Http.Formatting.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\System.Web.Http.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\bin\System.Web.Http.WebHost.xml
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\obj\Debug\lab3.dll
+d:\Clouds\OneDrive\Study\4 Course\DOT.NET\lab3\lab3\obj\Debug\lab3.pdb
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\csc.exe
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\csc.exe.config
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\csc.rsp
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\csi.exe
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\csi.exe.config
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\csi.rsp
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.AppContext.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.Collections.Immutable.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.Console.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.Diagnostics.Process.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.IO.Compression.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.IO.FileSystem.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.IO.Pipes.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.Security.AccessControl.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.Security.Claims.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.Threading.Thread.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.ValueTuple.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.Xml.XPath.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\vbc.exe
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\vbc.exe.config
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\vbc.rsp
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\VBCSCompiler.exe
+D:\Labs\DOT.NET\lab3\lab3\bin\roslyn\VBCSCompiler.exe.config
+D:\Labs\DOT.NET\lab3\lab3\bin\lab3.dll.config
+D:\Labs\DOT.NET\lab3\lab3\bin\lab3.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\lab3.pdb
+D:\Labs\DOT.NET\lab3\lab3\bin\Autofac.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\Autofac.Integration.WebApi.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\AutoMapper.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\Contracts.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\EntityFramework.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\EntityFramework.SqlServer.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\Newtonsoft.Json.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\NLog.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\Purplelight.Framework.Autofac.Integration.WebApi.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\System.Net.Http.Formatting.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\System.Web.Http.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\System.Web.Http.WebHost.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\Contracts.pdb
+D:\Labs\DOT.NET\lab3\lab3\bin\Autofac.xml
+D:\Labs\DOT.NET\lab3\lab3\bin\Autofac.Integration.WebApi.xml
+D:\Labs\DOT.NET\lab3\lab3\bin\AutoMapper.xml
+D:\Labs\DOT.NET\lab3\lab3\bin\EntityFramework.xml
+D:\Labs\DOT.NET\lab3\lab3\bin\EntityFramework.SqlServer.xml
+D:\Labs\DOT.NET\lab3\lab3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Labs\DOT.NET\lab3\lab3\bin\NLog.xml
+D:\Labs\DOT.NET\lab3\lab3\bin\Newtonsoft.Json.xml
+D:\Labs\DOT.NET\lab3\lab3\bin\System.Net.Http.Formatting.xml
+D:\Labs\DOT.NET\lab3\lab3\bin\System.Web.Http.xml
+D:\Labs\DOT.NET\lab3\lab3\bin\System.Web.Http.WebHost.xml
+D:\Labs\DOT.NET\lab3\lab3\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\ru\System.Web.Http.resources.dll
+D:\Labs\DOT.NET\lab3\lab3\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Labs\DOT.NET\lab3\lab3\obj\Debug\lab3.csprojResolveAssemblyReference.cache
+D:\Labs\DOT.NET\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\Labs\DOT.NET\lab3\lab3\obj\Debug\lab3.csproj.CopyComplete
+D:\Labs\DOT.NET\lab3\lab3\obj\Debug\lab3.dll
+D:\Labs\DOT.NET\lab3\lab3\obj\Debug\lab3.pdb

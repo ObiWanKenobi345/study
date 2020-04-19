@@ -1,0 +1,57 @@
+C:\Users\Druice\source\repos\TextProcessor329\TextProcessor329\bin\Debug\TextProcessor329.exe.config
+C:\Users\Druice\source\repos\TextProcessor329\TextProcessor329\bin\Debug\TextProcessor329.exe
+C:\Users\Druice\source\repos\TextProcessor329\TextProcessor329\bin\Debug\TextProcessor329.pdb
+C:\Users\Druice\source\repos\TextProcessor329\TextProcessor329\obj\Debug\MainWindow.g.cs
+C:\Users\Druice\source\repos\TextProcessor329\TextProcessor329\obj\Debug\App.g.cs
+C:\Users\Druice\source\repos\TextProcessor329\TextProcessor329\obj\Debug\TextProcessor329_MarkupCompile.cache
+C:\Users\Druice\source\repos\TextProcessor329\TextProcessor329\obj\Debug\TextProcessor329_MarkupCompile.lref
+C:\Users\Druice\source\repos\TextProcessor329\TextProcessor329\obj\Debug\MainWindow.baml
+C:\Users\Druice\source\repos\TextProcessor329\TextProcessor329\obj\Debug\TextProcessor329.g.resources
+C:\Users\Druice\source\repos\TextProcessor329\TextProcessor329\obj\Debug\TextProcessor329.Properties.Resources.resources
+C:\Users\Druice\source\repos\TextProcessor329\TextProcessor329\obj\Debug\TextProcessor329.csproj.GenerateResource.Cache
+C:\Users\Druice\source\repos\TextProcessor329\TextProcessor329\obj\Debug\TextProcessor329.csproj.CoreCompileInputs.cache
+C:\Users\Druice\source\repos\TextProcessor329\TextProcessor329\obj\Debug\TextProcessor329.exe
+C:\Users\Druice\source\repos\TextProcessor329\TextProcessor329\obj\Debug\TextProcessor329.pdb
+C:\Users\Druice\source\repos\TextProcessor329\TextProcessor329\obj\Debug\TextProcessor329.csprojResolveAssemblyReference.cache
+C:\Users\Druice\source\repos\TextProcessor329\TextProcessor329\bin\Debug\EntityFramework.dll
+C:\Users\Druice\source\repos\TextProcessor329\TextProcessor329\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Druice\source\repos\TextProcessor329\TextProcessor329\bin\Debug\EntityFramework.xml
+C:\Users\Druice\source\repos\TextProcessor329\TextProcessor329\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Дмитрий\Downloads\TextProcessor329\TextProcessor329\bin\Debug\TextProcessor329.exe.config
+C:\Users\Дмитрий\Downloads\TextProcessor329\TextProcessor329\bin\Debug\TextProcessor329.exe
+C:\Users\Дмитрий\Downloads\TextProcessor329\TextProcessor329\bin\Debug\TextProcessor329.pdb
+C:\Users\Дмитрий\Downloads\TextProcessor329\TextProcessor329\bin\Debug\EntityFramework.dll
+C:\Users\Дмитрий\Downloads\TextProcessor329\TextProcessor329\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Дмитрий\Downloads\TextProcessor329\TextProcessor329\bin\Debug\EntityFramework.xml
+C:\Users\Дмитрий\Downloads\TextProcessor329\TextProcessor329\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Дмитрий\Downloads\TextProcessor329\TextProcessor329\obj\Debug\TextProcessor329.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Downloads\TextProcessor329\TextProcessor329\obj\Debug\MainWindow.g.cs
+C:\Users\Дмитрий\Downloads\TextProcessor329\TextProcessor329\obj\Debug\App.g.cs
+C:\Users\Дмитрий\Downloads\TextProcessor329\TextProcessor329\obj\Debug\TextProcessor329_MarkupCompile.cache
+C:\Users\Дмитрий\Downloads\TextProcessor329\TextProcessor329\obj\Debug\TextProcessor329_MarkupCompile.lref
+C:\Users\Дмитрий\Downloads\TextProcessor329\TextProcessor329\obj\Debug\MainWindow.baml
+C:\Users\Дмитрий\Downloads\TextProcessor329\TextProcessor329\obj\Debug\TextProcessor329.g.resources
+C:\Users\Дмитрий\Downloads\TextProcessor329\TextProcessor329\obj\Debug\TextProcessor329.Properties.Resources.resources
+C:\Users\Дмитрий\Downloads\TextProcessor329\TextProcessor329\obj\Debug\TextProcessor329.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Downloads\TextProcessor329\TextProcessor329\obj\Debug\TextProcessor329.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Downloads\TextProcessor329\TextProcessor329\obj\Debug\TextProcessor329.exe
+C:\Users\Дмитрий\Downloads\TextProcessor329\TextProcessor329\obj\Debug\TextProcessor329.pdb
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab4-5\TextProcessor329\bin\Debug\TextProcessor329.exe.config
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab4-5\TextProcessor329\bin\Debug\TextProcessor329.exe
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab4-5\TextProcessor329\bin\Debug\TextProcessor329.pdb
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab4-5\TextProcessor329\bin\Debug\EntityFramework.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab4-5\TextProcessor329\bin\Debug\EntityFramework.SqlServer.dll
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab4-5\TextProcessor329\bin\Debug\EntityFramework.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab4-5\TextProcessor329\bin\Debug\EntityFramework.SqlServer.xml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab4-5\TextProcessor329\obj\Debug\TextProcessor329.csprojResolveAssemblyReference.cache
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab4-5\TextProcessor329\obj\Debug\MainWindow.g.cs
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab4-5\TextProcessor329\obj\Debug\App.g.cs
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab4-5\TextProcessor329\obj\Debug\TextProcessor329_MarkupCompile.cache
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab4-5\TextProcessor329\obj\Debug\TextProcessor329_MarkupCompile.lref
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab4-5\TextProcessor329\obj\Debug\MainWindow.baml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab4-5\TextProcessor329\obj\Debug\TextProcessor329.g.resources
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab4-5\TextProcessor329\obj\Debug\TextProcessor329.Properties.Resources.resources
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab4-5\TextProcessor329\obj\Debug\TextProcessor329.csproj.GenerateResource.Cache
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab4-5\TextProcessor329\obj\Debug\TextProcessor329.csproj.CoreCompileInputs.cache
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab4-5\TextProcessor329\obj\Debug\TextProcessor329.exe
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab4-5\TextProcessor329\obj\Debug\TextProcessor329.pdb

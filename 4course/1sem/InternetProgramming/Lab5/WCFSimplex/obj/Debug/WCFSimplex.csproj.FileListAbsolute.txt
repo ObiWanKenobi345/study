@@ -1,0 +1,13 @@
+D:\University\ASP.NET\Lab5\WCFSimplex\bin\Debug\WCFSimplex.dll.config
+D:\University\ASP.NET\Lab5\WCFSimplex\bin\Debug\WCFSimplex.dll
+D:\University\ASP.NET\Lab5\WCFSimplex\bin\Debug\WCFSimplex.pdb
+D:\University\ASP.NET\Lab5\WCFSimplex\obj\Debug\WCFSimplex.csprojAssemblyReference.cache
+D:\University\ASP.NET\Lab5\WCFSimplex\obj\Debug\WCFSimplex.csproj.CoreCompileInputs.cache
+D:\University\ASP.NET\Lab5\WCFSimplex\obj\Debug\WCFSimplex.dll
+D:\University\ASP.NET\Lab5\WCFSimplex\obj\Debug\WCFSimplex.pdb
+E:\Study\4 course\Программирование в Internet\labs\Lab5\WCFSimplex\bin\Debug\WCFSimplex.dll.config
+E:\Study\4 course\Программирование в Internet\labs\Lab5\WCFSimplex\bin\Debug\WCFSimplex.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab5\WCFSimplex\bin\Debug\WCFSimplex.pdb
+E:\Study\4 course\Программирование в Internet\labs\Lab5\WCFSimplex\obj\Debug\WCFSimplex.csproj.CoreCompileInputs.cache
+E:\Study\4 course\Программирование в Internet\labs\Lab5\WCFSimplex\obj\Debug\WCFSimplex.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab5\WCFSimplex\obj\Debug\WCFSimplex.pdb

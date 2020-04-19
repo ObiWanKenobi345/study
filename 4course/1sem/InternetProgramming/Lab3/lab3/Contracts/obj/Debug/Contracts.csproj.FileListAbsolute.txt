@@ -1,0 +1,16 @@
+F:\Labs\ProgInternet\lab3\Contracts\bin\Debug\Contracts.dll
+F:\Labs\ProgInternet\lab3\Contracts\bin\Debug\Contracts.pdb
+F:\Labs\ProgInternet\lab3\Contracts\bin\Debug\AutoMapper.dll
+F:\Labs\ProgInternet\lab3\Contracts\bin\Debug\AutoMapper.xml
+F:\Labs\ProgInternet\lab3\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+F:\Labs\ProgInternet\lab3\Contracts\obj\Debug\Contracts.dll
+F:\Labs\ProgInternet\lab3\Contracts\obj\Debug\Contracts.pdb
+D:\Labs\DOT.NET\lab3\Contracts\bin\Debug\Contracts.dll
+D:\Labs\DOT.NET\lab3\Contracts\bin\Debug\Contracts.pdb
+D:\Labs\DOT.NET\lab3\Contracts\bin\Debug\AutoMapper.dll
+D:\Labs\DOT.NET\lab3\Contracts\bin\Debug\AutoMapper.xml
+D:\Labs\DOT.NET\lab3\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+D:\Labs\DOT.NET\lab3\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+D:\Labs\DOT.NET\lab3\Contracts\obj\Debug\Contracts.csproj.CopyComplete
+D:\Labs\DOT.NET\lab3\Contracts\obj\Debug\Contracts.dll
+D:\Labs\DOT.NET\lab3\Contracts\obj\Debug\Contracts.pdb

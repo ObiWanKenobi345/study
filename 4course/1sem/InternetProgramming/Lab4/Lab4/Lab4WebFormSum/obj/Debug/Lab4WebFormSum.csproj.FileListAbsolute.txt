@@ -1,0 +1,20 @@
+D:\University\ASP.NET\Lab4\Lab4WebFormSum\bin\Debug\Lab4WebFormSum.exe.config
+D:\University\ASP.NET\Lab4\Lab4WebFormSum\bin\Debug\Lab4WebFormSum.exe
+D:\University\ASP.NET\Lab4\Lab4WebFormSum\bin\Debug\Lab4WebFormSum.pdb
+D:\University\ASP.NET\Lab4\Lab4WebFormSum\obj\Debug\Lab4WebFormSum.csprojAssemblyReference.cache
+D:\University\ASP.NET\Lab4\Lab4WebFormSum\obj\Debug\Lab4WebFormSum.Form1.resources
+D:\University\ASP.NET\Lab4\Lab4WebFormSum\obj\Debug\Lab4WebFormSum.Properties.Resources.resources
+D:\University\ASP.NET\Lab4\Lab4WebFormSum\obj\Debug\Lab4WebFormSum.csproj.GenerateResource.cache
+D:\University\ASP.NET\Lab4\Lab4WebFormSum\obj\Debug\Lab4WebFormSum.csproj.CoreCompileInputs.cache
+D:\University\ASP.NET\Lab4\Lab4WebFormSum\obj\Debug\Lab4WebFormSum.exe
+D:\University\ASP.NET\Lab4\Lab4WebFormSum\obj\Debug\Lab4WebFormSum.pdb
+E:\Study\4 course\Программирование в Internet\labs\Lab4-20181017T225144Z-001\Lab4\Lab4WebFormSum\bin\Debug\Lab4WebFormSum.exe.config
+E:\Study\4 course\Программирование в Internet\labs\Lab4-20181017T225144Z-001\Lab4\Lab4WebFormSum\bin\Debug\Lab4WebFormSum.exe
+E:\Study\4 course\Программирование в Internet\labs\Lab4-20181017T225144Z-001\Lab4\Lab4WebFormSum\bin\Debug\Lab4WebFormSum.pdb
+E:\Study\4 course\Программирование в Internet\labs\Lab4-20181017T225144Z-001\Lab4\Lab4WebFormSum\obj\Debug\Lab4WebFormSum.csprojAssemblyReference.cache
+E:\Study\4 course\Программирование в Internet\labs\Lab4-20181017T225144Z-001\Lab4\Lab4WebFormSum\obj\Debug\Lab4WebFormSum.Form1.resources
+E:\Study\4 course\Программирование в Internet\labs\Lab4-20181017T225144Z-001\Lab4\Lab4WebFormSum\obj\Debug\Lab4WebFormSum.Properties.Resources.resources
+E:\Study\4 course\Программирование в Internet\labs\Lab4-20181017T225144Z-001\Lab4\Lab4WebFormSum\obj\Debug\Lab4WebFormSum.csproj.GenerateResource.cache
+E:\Study\4 course\Программирование в Internet\labs\Lab4-20181017T225144Z-001\Lab4\Lab4WebFormSum\obj\Debug\Lab4WebFormSum.csproj.CoreCompileInputs.cache
+E:\Study\4 course\Программирование в Internet\labs\Lab4-20181017T225144Z-001\Lab4\Lab4WebFormSum\obj\Debug\Lab4WebFormSum.exe
+E:\Study\4 course\Программирование в Internet\labs\Lab4-20181017T225144Z-001\Lab4\Lab4WebFormSum\obj\Debug\Lab4WebFormSum.pdb

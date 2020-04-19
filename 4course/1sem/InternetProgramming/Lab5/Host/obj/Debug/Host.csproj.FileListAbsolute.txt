@@ -1,0 +1,33 @@
+D:\University\ASP.NET\Lab5\Host\bin\Debug\Host.exe.config
+D:\University\ASP.NET\Lab5\Host\bin\Debug\Host.exe
+D:\University\ASP.NET\Lab5\Host\bin\Debug\Host.pdb
+D:\University\ASP.NET\Lab5\Host\bin\Debug\WCFSimplex.dll
+D:\University\ASP.NET\Lab5\Host\bin\Debug\WCFSimplex.pdb
+D:\University\ASP.NET\Lab5\Host\bin\Debug\WCFSimplex.dll.config
+D:\University\ASP.NET\Lab5\Host\obj\Debug\Host.csprojAssemblyReference.cache
+D:\University\ASP.NET\Lab5\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\University\ASP.NET\Lab5\Host\obj\Debug\Host.csproj.CopyComplete
+D:\University\ASP.NET\Lab5\Host\obj\Debug\Host.exe
+D:\University\ASP.NET\Lab5\Host\obj\Debug\Host.pdb
+D:\study\7 sem\PI\Lab5\Host\bin\Debug\Host.exe.config
+D:\study\7 sem\PI\Lab5\Host\bin\Debug\Host.exe
+D:\study\7 sem\PI\Lab5\Host\bin\Debug\Host.pdb
+D:\study\7 sem\PI\Lab5\Host\bin\Debug\WCFSimplex.dll
+D:\study\7 sem\PI\Lab5\Host\bin\Debug\WCFSimplex.pdb
+D:\study\7 sem\PI\Lab5\Host\bin\Debug\WCFSimplex.dll.config
+D:\study\7 sem\PI\Lab5\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+D:\study\7 sem\PI\Lab5\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\study\7 sem\PI\Lab5\Host\obj\Debug\Host.csproj.CopyComplete
+D:\study\7 sem\PI\Lab5\Host\obj\Debug\Host.exe
+D:\study\7 sem\PI\Lab5\Host\obj\Debug\Host.pdb
+E:\Study\4 course\Программирование в Internet\labs\Lab5\Host\bin\Debug\Host.exe.config
+E:\Study\4 course\Программирование в Internet\labs\Lab5\Host\bin\Debug\Host.exe
+E:\Study\4 course\Программирование в Internet\labs\Lab5\Host\bin\Debug\Host.pdb
+E:\Study\4 course\Программирование в Internet\labs\Lab5\Host\bin\Debug\WCFSimplex.dll
+E:\Study\4 course\Программирование в Internet\labs\Lab5\Host\bin\Debug\WCFSimplex.pdb
+E:\Study\4 course\Программирование в Internet\labs\Lab5\Host\bin\Debug\WCFSimplex.dll.config
+E:\Study\4 course\Программирование в Internet\labs\Lab5\Host\obj\Debug\Host.csprojAssemblyReference.cache
+E:\Study\4 course\Программирование в Internet\labs\Lab5\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+E:\Study\4 course\Программирование в Internet\labs\Lab5\Host\obj\Debug\Host.csproj.CopyComplete
+E:\Study\4 course\Программирование в Internet\labs\Lab5\Host\obj\Debug\Host.exe
+E:\Study\4 course\Программирование в Internet\labs\Lab5\Host\obj\Debug\Host.pdb

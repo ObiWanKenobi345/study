@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  ClientNP.cpp
+e:\для учёбы\3 курс\пибсп\labs\lab6\clientnp\clientnp\clientnp.cpp(36): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note:  см. объявление "sprintf"
+e:\для учёбы\3 курс\пибсп\labs\lab6\clientnp\clientnp\clientnp.cpp(38): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note:  см. объявление "strcpy"
+e:\для учёбы\3 курс\пибсп\labs\lab6\clientnp\clientnp\clientnp.cpp(39): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note:  см. объявление "strcat"
+  ClientNP.vcxproj -> E:\Для учёбы\3 курс\ПИБСП\labs\Lab6\ClientNP\Debug\ClientNP.exe

@@ -1,0 +1,24 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="Lab4.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <p>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server" />
+            </p>
+            <p>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server" />
+            </p>
+            <p>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server" />
+            </p>
+        </div>
+    </form>
+</body>
+</html>

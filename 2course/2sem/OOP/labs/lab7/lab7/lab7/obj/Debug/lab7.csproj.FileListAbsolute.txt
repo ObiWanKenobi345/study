@@ -1,0 +1,45 @@
+D:\4 семестр\ООП\lab7\lab7\lab7\bin\Debug\lab7.exe.config
+D:\4 семестр\ООП\lab7\lab7\lab7\bin\Debug\lab7.exe
+D:\4 семестр\ООП\lab7\lab7\lab7\bin\Debug\lab7.pdb
+D:\4 семестр\ООП\lab7\lab7\lab7\obj\Debug\lab7.csprojResolveAssemblyReference.cache
+D:\4 семестр\ООП\lab7\lab7\lab7\obj\Debug\MainWindow.g.cs
+D:\4 семестр\ООП\lab7\lab7\lab7\obj\Debug\App.g.cs
+D:\4 семестр\ООП\lab7\lab7\lab7\obj\Debug\lab7_MarkupCompile.cache
+D:\4 семестр\ООП\lab7\lab7\lab7\obj\Debug\lab7_MarkupCompile.lref
+D:\4 семестр\ООП\lab7\lab7\lab7\obj\Debug\MainWindow.baml
+D:\4 семестр\ООП\lab7\lab7\lab7\obj\Debug\lab7.g.resources
+D:\4 семестр\ООП\lab7\lab7\lab7\obj\Debug\lab7.Properties.Resources.resources
+D:\4 семестр\ООП\lab7\lab7\lab7\obj\Debug\lab7.csproj.GenerateResource.Cache
+D:\4 семестр\ООП\lab7\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+D:\4 семестр\ООП\lab7\lab7\lab7\obj\Debug\lab7.exe
+D:\4 семестр\ООП\lab7\lab7\lab7\obj\Debug\lab7.pdb
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab7\lab7\lab7\bin\Debug\lab7.exe.config
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab7\lab7\lab7\bin\Debug\lab7.exe
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab7\lab7\lab7\bin\Debug\lab7.pdb
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab7\lab7\lab7\obj\Debug\lab7.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab7\lab7\lab7\obj\Debug\MainWindow.g.cs
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab7\lab7\lab7\obj\Debug\App.g.cs
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab7\lab7\lab7\obj\Debug\lab7_MarkupCompile.cache
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab7\lab7\lab7\obj\Debug\lab7_MarkupCompile.lref
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab7\lab7\lab7\obj\Debug\MainWindow.baml
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab7\lab7\lab7\obj\Debug\lab7.g.resources
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab7\lab7\lab7\obj\Debug\lab7.Properties.Resources.resources
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab7\lab7\lab7\obj\Debug\lab7.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab7\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab7\lab7\lab7\obj\Debug\lab7.exe
+C:\Users\Дмитрий\Downloads\StudentsLabs\lab7\lab7\lab7\obj\Debug\lab7.pdb
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab7\lab7\lab7\bin\Debug\lab7.exe.config
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab7\lab7\lab7\bin\Debug\lab7.exe
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab7\lab7\lab7\bin\Debug\lab7.pdb
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab7\lab7\lab7\obj\Debug\lab7.csprojResolveAssemblyReference.cache
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab7\lab7\lab7\obj\Debug\MainWindow.g.cs
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab7\lab7\lab7\obj\Debug\App.g.cs
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab7\lab7\lab7\obj\Debug\lab7_MarkupCompile.cache
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab7\lab7\lab7\obj\Debug\lab7_MarkupCompile.lref
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab7\lab7\lab7\obj\Debug\MainWindow.baml
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab7\lab7\lab7\obj\Debug\lab7.g.resources
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab7\lab7\lab7\obj\Debug\lab7.Properties.Resources.resources
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab7\lab7\lab7\obj\Debug\lab7.csproj.GenerateResource.Cache
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab7\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab7\lab7\lab7\obj\Debug\lab7.exe
+E:\Для учёбы\2 курс\2 сем\ООП\labs\lab7\lab7\lab7\obj\Debug\lab7.pdb

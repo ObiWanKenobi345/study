@@ -1,0 +1,27 @@
+E:\University\ASP.NET\Lab4\Lab4\bin\Lab4.dll.config
+E:\University\ASP.NET\Lab4\Lab4\bin\Lab4.dll
+E:\University\ASP.NET\Lab4\Lab4\bin\Lab4.pdb
+E:\University\ASP.NET\Lab4\Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\University\ASP.NET\Lab4\Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\University\ASP.NET\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+E:\University\ASP.NET\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+E:\University\ASP.NET\Lab4\Lab4\obj\Debug\Lab4.dll
+E:\University\ASP.NET\Lab4\Lab4\obj\Debug\Lab4.pdb
+D:\student\6sem\ProgIntServ\Lab4\Lab4\Lab4\bin\Lab4.dll.config
+D:\student\6sem\ProgIntServ\Lab4\Lab4\Lab4\bin\Lab4.dll
+D:\student\6sem\ProgIntServ\Lab4\Lab4\Lab4\bin\Lab4.pdb
+D:\student\6sem\ProgIntServ\Lab4\Lab4\Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\student\6sem\ProgIntServ\Lab4\Lab4\Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\student\6sem\ProgIntServ\Lab4\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+D:\student\6sem\ProgIntServ\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\student\6sem\ProgIntServ\Lab4\Lab4\Lab4\obj\Debug\Lab4.dll
+D:\student\6sem\ProgIntServ\Lab4\Lab4\Lab4\obj\Debug\Lab4.pdb
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab4\Lab4\Lab4\bin\Lab4.dll.config
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab4\Lab4\Lab4\bin\Lab4.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab4\Lab4\Lab4\bin\Lab4.pdb
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab4\Lab4\Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab4\Lab4\Lab4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab4\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab4\Lab4\Lab4\obj\Debug\Lab4.dll
+E:\Для учёбы\3 курс\2 сем\Программирование интернет-серверов\labs\Lab4\Lab4\Lab4\obj\Debug\Lab4.pdb

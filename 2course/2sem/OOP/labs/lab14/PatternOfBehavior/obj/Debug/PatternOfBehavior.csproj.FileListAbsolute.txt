@@ -1,0 +1,14 @@
+D:\ООП_1\PatternOfBehavior\PatternOfBehavior\bin\Debug\PatternOfBehavior.exe.config
+D:\ООП_1\PatternOfBehavior\PatternOfBehavior\bin\Debug\PatternOfBehavior.exe
+D:\ООП_1\PatternOfBehavior\PatternOfBehavior\bin\Debug\PatternOfBehavior.pdb
+D:\ООП_1\PatternOfBehavior\PatternOfBehavior\obj\Debug\PatternOfBehavior.csprojAssemblyReference.cache
+D:\ООП_1\PatternOfBehavior\PatternOfBehavior\obj\Debug\PatternOfBehavior.csproj.CoreCompileInputs.cache
+D:\ООП_1\PatternOfBehavior\PatternOfBehavior\obj\Debug\PatternOfBehavior.exe
+D:\ООП_1\PatternOfBehavior\PatternOfBehavior\obj\Debug\PatternOfBehavior.pdb
+C:\Users\Tom\Desktop\PatternOfBehavior\PatternOfBehavior\bin\Debug\PatternOfBehavior.exe.config
+C:\Users\Tom\Desktop\PatternOfBehavior\PatternOfBehavior\bin\Debug\PatternOfBehavior.exe
+C:\Users\Tom\Desktop\PatternOfBehavior\PatternOfBehavior\bin\Debug\PatternOfBehavior.pdb
+C:\Users\Tom\Desktop\PatternOfBehavior\PatternOfBehavior\obj\Debug\PatternOfBehavior.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\PatternOfBehavior\PatternOfBehavior\obj\Debug\PatternOfBehavior.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\PatternOfBehavior\PatternOfBehavior\obj\Debug\PatternOfBehavior.exe
+C:\Users\Tom\Desktop\PatternOfBehavior\PatternOfBehavior\obj\Debug\PatternOfBehavior.pdb

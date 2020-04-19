@@ -1,0 +1,172 @@
+D:\ASP\ASMXService1\ASMXService1\bin\ASMXService1.dll.config
+D:\ASP\ASMXService1\ASMXService1\bin\ASMXService1.dll
+D:\ASP\ASMXService1\ASMXService1\bin\ASMXService1.pdb
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\csc.exe
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\csc.exe.config
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\csc.rsp
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\csi.exe
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\csi.exe.config
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\csi.rsp
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.AppContext.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.Console.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.Diagnostics.Process.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.IO.Compression.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.IO.FileSystem.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.IO.Pipes.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.Security.AccessControl.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.Security.Claims.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.Threading.Thread.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.ValueTuple.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.Xml.XPath.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\vbc.exe
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\vbc.exe.config
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\vbc.rsp
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\VBCSCompiler.exe
+D:\ASP\ASMXService1\ASMXService1\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP\ASMXService1\ASMXService1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP\ASMXService1\ASMXService1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP\ASMXService1\ASMXService1\obj\Release\ASMXService1.csprojResolveAssemblyReference.cache
+D:\ASP\ASMXService1\ASMXService1\obj\Release\ASMXService1.csproj.CoreCompileInputs.cache
+D:\ASP\ASMXService1\ASMXService1\obj\Release\ASMXService1.csproj.CopyComplete
+D:\ASP\ASMXService1\ASMXService1\obj\Release\ASMXService1.dll
+D:\ASP\ASMXService1\ASMXService1\obj\Release\ASMXService1.pdb
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\ASMXService1.dll.config
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\ASMXService1.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\ASMXService1.pdb
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\csc.exe
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\csc.exe.config
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\csc.rsp
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\csi.exe
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\csi.exe.config
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\csi.rsp
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.AppContext.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.Console.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.IO.Compression.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.Security.Claims.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.Threading.Thread.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.ValueTuple.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\vbc.exe
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\vbc.exe.config
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\vbc.rsp
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\VBCSCompiler.exe
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\obj\Release\ASMXService1.csprojResolveAssemblyReference.cache
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\obj\Release\ASMXService1.csproj.CoreCompileInputs.cache
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\obj\Release\ASMXService1.dll
+C:\Users\kotel\Downloads\Telegram Desktop\ASMXService1\ASMXService1\obj\Release\ASMXService1.pdb
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\ASMXService1.dll.config
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\ASMXService1.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\ASMXService1.pdb
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\csc.exe
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\csc.exe.config
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\csc.rsp
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\csi.exe
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\csi.exe.config
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\csi.rsp
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.AppContext.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.Collections.Immutable.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.Console.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.Diagnostics.Process.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.IO.Compression.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.IO.FileSystem.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.IO.Pipes.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.Reflection.Metadata.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.Security.AccessControl.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.Security.Claims.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.Threading.Thread.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.ValueTuple.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.Xml.XPath.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\vbc.exe
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\vbc.exe.config
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\vbc.rsp
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\VBCSCompiler.exe
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\roslyn\VBCSCompiler.exe.config
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\obj\Release\ASMXService1.csprojResolveAssemblyReference.cache
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\obj\Release\ASMXService1.csproj.CoreCompileInputs.cache
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\obj\Release\ASMXService1.dll
+D:\student\6sem\ProgIntServ\lab6\ASMXService1\ASMXService1\obj\Release\ASMXService1.pdb

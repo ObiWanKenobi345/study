@@ -1,0 +1,10 @@
+﻿.buttonStyle {
+    font-family: Algerian;
+    font-size: medium;
+    background: blue;
+}
+
+.textStyle{
+    font-size: smaller;
+    color: deeppink;
+}

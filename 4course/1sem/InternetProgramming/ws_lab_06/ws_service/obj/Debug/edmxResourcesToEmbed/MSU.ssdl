@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WSModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="WSModelStoreContainer">
+    <EntitySet Name="students" EntityType="WSModel.Store.students" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="notes" EntityType="WSModel.Store.notes" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_notes_students" Association="WSModel.Store.FK_notes_students">
+      <End Role="student" EntitySet="students" />
+      <End Role="note" EntitySet="notes" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="students">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="name" Type="nvarchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="notes">
+    <Key>
+      <PropertyRef Name="id" />
+      <PropertyRef Name="subject" />
+      <PropertyRef Name="notes" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="subject" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="notes" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_notes_students">
+    <End Role="student" Type="WSModel.Store.students" Multiplicity="1" />
+    <End Role="note" Type="WSModel.Store.notes" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="student">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="note">
+        <PropertyRef Name="id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

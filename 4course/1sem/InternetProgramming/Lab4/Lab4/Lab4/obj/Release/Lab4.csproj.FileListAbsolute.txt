@@ -1,0 +1,7 @@
+D:\University\ASP.NET\Lab4\Lab4\bin\Lab4.dll.config
+D:\University\ASP.NET\Lab4\Lab4\bin\Lab4.dll
+D:\University\ASP.NET\Lab4\Lab4\bin\Lab4.pdb
+D:\University\ASP.NET\Lab4\Lab4\obj\Release\Lab4.csprojAssemblyReference.cache
+D:\University\ASP.NET\Lab4\Lab4\obj\Release\Lab4.csproj.CoreCompileInputs.cache
+D:\University\ASP.NET\Lab4\Lab4\obj\Release\Lab4.dll
+D:\University\ASP.NET\Lab4\Lab4\obj\Release\Lab4.pdb

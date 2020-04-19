@@ -1,0 +1,7 @@
+E:\Для учёбы\2 курс\ООП\labs\lab8\lab8\bin\Debug\lab8.exe.config
+E:\Для учёбы\2 курс\ООП\labs\lab8\lab8\bin\Debug\lab8.exe
+E:\Для учёбы\2 курс\ООП\labs\lab8\lab8\bin\Debug\lab8.pdb
+E:\Для учёбы\2 курс\ООП\labs\lab8\lab8\obj\Debug\lab8.csprojResolveAssemblyReference.cache
+E:\Для учёбы\2 курс\ООП\labs\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+E:\Для учёбы\2 курс\ООП\labs\lab8\lab8\obj\Debug\lab8.exe
+E:\Для учёбы\2 курс\ООП\labs\lab8\lab8\obj\Debug\lab8.pdb
