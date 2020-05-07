@@ -1,0 +1,42 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class camera : MonoBehaviour
+{
+    float mouseSensitivity = 0.7f;
+	float speed = 0.7f;
+	private Vector3 transfer;
+
+	
+	float rotationX = 0F;
+	float rotationY = 0F;
+	Quaternion originalRotation;
+
+
+	void Start() {
+		originalRotation = transform.rotation;        
+	}
+
+	void Update() {
+		
+		rotationX += Input.GetAxis("Mouse X") * mouseSensitivity;
+		rotationY += Input.GetAxis("Mouse Y") * mouseSensitivity;
+		rotationX = ClampAngle (rotationX, -360f, 360f);
+		rotationY = ClampAngle (rotationY, -60f, 60f);
+		Quaternion xQuaternion = Quaternion.AngleAxis (rotationX, Vector3.up);
+		Quaternion yQuaternion = Quaternion.AngleAxis (rotationY, Vector3.left);
+		transform.rotation = originalRotation * xQuaternion * yQuaternion;
+		
+		transfer = transform.forward * Input.GetAxis("Vertical");
+		transfer += transform.right * Input.GetAxis("Horizontal");
+		transform.position += transfer * speed;
+	}
+
+	public static float ClampAngle (float angle, float min, float max)
+	{
+		if (angle < -360F) angle += 360F;
+		if (angle > 360F) angle -= 360F;
+		return Mathf.Clamp (angle, min, max);
+	}
+}
